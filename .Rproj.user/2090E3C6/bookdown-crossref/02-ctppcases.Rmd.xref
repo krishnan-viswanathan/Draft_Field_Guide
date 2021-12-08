@@ -1,0 +1,23 @@
+h1:ctpp-case-studies CTPP Case Studies
+h2:case-study-1---understand-nationwide-demographic-trends Case Study 1 - Understand Nationwide Demographic Trends
+h3:analysis-steps-for-case-study-1 Analysis Steps for Case Study 1
+fig:cs1 CTPP Website
+fig:cs2 CTPP Data Access
+fig:cs3 CTPP Login Details
+fig:cs4 Select Relevant CTPP Table
+fig:cs5 Download Relevant CTPP Table
+fig:cs6 Table A101201
+fig:pop Population Structure by Age and Minority Status
+h2:case-study-2---statewide-snapshot-of-mean-travel-times Case Study 2 - Statewide Snapshot of Mean Travel Times
+h3:analysis-steps-for-case-study-2 Analysis Steps for Case Study 2
+fig:cs7 Table B106202
+fig:ttime Mean Travel Time by County in Florida
+h2:case-study-3---travel-demand-model-calibration Case Study 3 - Travel Demand Model Calibration
+h3:analysis-steps-for-case-study-3 Analysis Steps for Case Study 3
+fig:cs8 Table A302100
+tab:ctpp Worker Trips between ARC Counties from CTPP
+tab:model Worker Trips between ARC Counties from ARC Model
+fig:diff Differences between Model and CTPP Flows
+h2:resources Resources
+fig:train CTPP Training Resources
+

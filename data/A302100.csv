@@ -1,0 +1,729 @@
+RESIDENCE,WORKPLACE,Output,Workers
+Barrow,Barrow,Estimate,"10,445"
+Barrow,Barrow,Margin of Error,563
+Barrow,Bartow,Estimate,15
+Barrow,Bartow,Margin of Error,20
+Barrow,Clayton,Estimate,35
+Barrow,Clayton,Margin of Error,30
+Barrow,Cobb,Estimate,175
+Barrow,Cobb,Margin of Error,79
+Barrow,Dawson,Estimate,4
+Barrow,Dawson,Margin of Error,20
+Barrow,DeKalb,Estimate,825
+Barrow,DeKalb,Margin of Error,194
+Barrow,Forsyth,Estimate,275
+Barrow,Forsyth,Margin of Error,112
+Barrow,Fulton,Estimate,"1,085"
+Barrow,Fulton,Margin of Error,207
+Barrow,Gwinnett,Estimate,"10,240"
+Barrow,Gwinnett,Margin of Error,643
+Barrow,Hall,Estimate,"1,640"
+Barrow,Hall,Margin of Error,247
+Barrow,Henry,Estimate,60
+Barrow,Henry,Margin of Error,53
+Barrow,Newton,Estimate,80
+Barrow,Newton,Margin of Error,51
+Barrow,Paulding,Estimate,25
+Barrow,Paulding,Margin of Error,31
+Barrow,Rockdale,Estimate,35
+Barrow,Rockdale,Margin of Error,33
+Barrow,Spalding,Estimate,55
+Barrow,Spalding,Margin of Error,54
+Barrow,Walton,Estimate,"1,155"
+Barrow,Walton,Margin of Error,281
+Bartow,Bartow,Estimate,"25,630"
+Bartow,Bartow,Margin of Error,"1,086"
+Bartow,Carroll,Estimate,20
+Bartow,Carroll,Margin of Error,24
+Bartow,Cherokee,Estimate,"1,880"
+Bartow,Cherokee,Margin of Error,442
+Bartow,Clayton,Estimate,30
+Bartow,Clayton,Margin of Error,47
+Bartow,Cobb,Estimate,"6,550"
+Bartow,Cobb,Margin of Error,575
+Bartow,Coweta,Estimate,20
+Bartow,Coweta,Margin of Error,36
+Bartow,DeKalb,Estimate,315
+Bartow,DeKalb,Margin of Error,166
+Bartow,Douglas,Estimate,175
+Bartow,Douglas,Margin of Error,97
+Bartow,Fayette,Estimate,45
+Bartow,Fayette,Margin of Error,66
+Bartow,Forsyth,Estimate,225
+Bartow,Forsyth,Margin of Error,132
+Bartow,Fulton,Estimate,"2,260"
+Bartow,Fulton,Margin of Error,344
+Bartow,Gwinnett,Estimate,425
+Bartow,Gwinnett,Margin of Error,182
+Bartow,Henry,Estimate,4
+Bartow,Henry,Margin of Error,13
+Bartow,Newton,Estimate,10
+Bartow,Newton,Margin of Error,19
+Bartow,Paulding,Estimate,550
+Bartow,Paulding,Margin of Error,213
+Bartow,Rockdale,Estimate,35
+Bartow,Rockdale,Margin of Error,45
+Bartow,Walton,Estimate,20
+Bartow,Walton,Margin of Error,33
+Carroll,Bartow,Estimate,135
+Carroll,Bartow,Margin of Error,70
+Carroll,Carroll,Estimate,"29,430"
+Carroll,Carroll,Margin of Error,"1,240"
+Carroll,Cherokee,Estimate,100
+Carroll,Cherokee,Margin of Error,138
+Carroll,Clayton,Estimate,280
+Carroll,Clayton,Margin of Error,139
+Carroll,Cobb,Estimate,"2,110"
+Carroll,Cobb,Margin of Error,382
+Carroll,Coweta,Estimate,"1,425"
+Carroll,Coweta,Margin of Error,361
+Carroll,DeKalb,Estimate,740
+Carroll,DeKalb,Margin of Error,214
+Carroll,Douglas,Estimate,"4,305"
+Carroll,Douglas,Margin of Error,595
+Carroll,Fayette,Estimate,165
+Carroll,Fayette,Margin of Error,110
+Carroll,Forsyth,Estimate,125
+Carroll,Forsyth,Margin of Error,103
+Carroll,Fulton,Estimate,"3,775"
+Carroll,Fulton,Margin of Error,456
+Carroll,Gwinnett,Estimate,420
+Carroll,Gwinnett,Margin of Error,176
+Carroll,Henry,Estimate,70
+Carroll,Henry,Margin of Error,62
+Carroll,Paulding,Estimate,905
+Carroll,Paulding,Margin of Error,351
+Carroll,Rockdale,Estimate,80
+Carroll,Rockdale,Margin of Error,67
+Carroll,Spalding,Estimate,10
+Carroll,Spalding,Margin of Error,19
+Cherokee,Barrow,Estimate,15
+Cherokee,Barrow,Margin of Error,27
+Cherokee,Bartow,Estimate,"1,770"
+Cherokee,Bartow,Margin of Error,439
+Cherokee,Carroll,Estimate,70
+Cherokee,Carroll,Margin of Error,75
+Cherokee,Cherokee,Estimate,"46,960"
+Cherokee,Cherokee,Margin of Error,"1,724"
+Cherokee,Clayton,Estimate,325
+Cherokee,Clayton,Margin of Error,125
+Cherokee,Cobb,Estimate,"24,060"
+Cherokee,Cobb,Margin of Error,"1,251"
+Cherokee,Coweta,Estimate,90
+Cherokee,Coweta,Margin of Error,89
+Cherokee,Dawson,Estimate,55
+Cherokee,Dawson,Margin of Error,47
+Cherokee,DeKalb,Estimate,"3,305"
+Cherokee,DeKalb,Margin of Error,470
+Cherokee,Douglas,Estimate,505
+Cherokee,Douglas,Margin of Error,193
+Cherokee,Fayette,Estimate,15
+Cherokee,Fayette,Margin of Error,24
+Cherokee,Forsyth,Estimate,"3,570"
+Cherokee,Forsyth,Margin of Error,549
+Cherokee,Fulton,Estimate,"23,305"
+Cherokee,Fulton,Margin of Error,"1,314"
+Cherokee,Gwinnett,Estimate,"2,900"
+Cherokee,Gwinnett,Margin of Error,528
+Cherokee,Hall,Estimate,145
+Cherokee,Hall,Margin of Error,112
+Cherokee,Henry,Estimate,140
+Cherokee,Henry,Margin of Error,120
+Cherokee,Paulding,Estimate,170
+Cherokee,Paulding,Margin of Error,89
+Cherokee,Rockdale,Estimate,50
+Cherokee,Rockdale,Margin of Error,55
+Cherokee,Spalding,Estimate,75
+Cherokee,Spalding,Margin of Error,75
+Clayton,Bartow,Estimate,60
+Clayton,Bartow,Margin of Error,57
+Clayton,Carroll,Estimate,90
+Clayton,Carroll,Margin of Error,44
+Clayton,Cherokee,Estimate,85
+Clayton,Cherokee,Margin of Error,66
+Clayton,Clayton,Estimate,"40,710"
+Clayton,Clayton,Margin of Error,"1,543"
+Clayton,Cobb,Estimate,"3,510"
+Clayton,Cobb,Margin of Error,456
+Clayton,Coweta,Estimate,"1,055"
+Clayton,Coweta,Margin of Error,300
+Clayton,DeKalb,Estimate,"9,950"
+Clayton,DeKalb,Margin of Error,752
+Clayton,Douglas,Estimate,795
+Clayton,Douglas,Margin of Error,202
+Clayton,Fayette,Estimate,"5,135"
+Clayton,Fayette,Margin of Error,627
+Clayton,Forsyth,Estimate,155
+Clayton,Forsyth,Margin of Error,115
+Clayton,Fulton,Estimate,"36,280"
+Clayton,Fulton,Margin of Error,"1,645"
+Clayton,Gwinnett,Estimate,"2,215"
+Clayton,Gwinnett,Margin of Error,399
+Clayton,Hall,Estimate,30
+Clayton,Hall,Margin of Error,30
+Clayton,Henry,Estimate,"9,200"
+Clayton,Henry,Margin of Error,893
+Clayton,Newton,Estimate,260
+Clayton,Newton,Margin of Error,154
+Clayton,Rockdale,Estimate,585
+Clayton,Rockdale,Margin of Error,186
+Clayton,Spalding,Estimate,725
+Clayton,Spalding,Margin of Error,213
+Clayton,Walton,Estimate,20
+Clayton,Walton,Margin of Error,37
+Cobb,Barrow,Estimate,30
+Cobb,Barrow,Margin of Error,49
+Cobb,Bartow,Estimate,"2,575"
+Cobb,Bartow,Margin of Error,382
+Cobb,Carroll,Estimate,370
+Cobb,Carroll,Margin of Error,119
+Cobb,Cherokee,Estimate,"8,095"
+Cobb,Cherokee,Margin of Error,705
+Cobb,Clayton,Estimate,"3,790"
+Cobb,Clayton,Margin of Error,492
+Cobb,Cobb,Estimate,"211,035"
+Cobb,Cobb,Margin of Error,"3,122"
+Cobb,Coweta,Estimate,290
+Cobb,Coweta,Margin of Error,105
+Cobb,DeKalb,Estimate,"17,010"
+Cobb,DeKalb,Margin of Error,"1,010"
+Cobb,Douglas,Estimate,"4,660"
+Cobb,Douglas,Margin of Error,530
+Cobb,Fayette,Estimate,455
+Cobb,Fayette,Margin of Error,201
+Cobb,Forsyth,Estimate,"1,950"
+Cobb,Forsyth,Margin of Error,336
+Cobb,Fulton,Estimate,"96,845"
+Cobb,Fulton,Margin of Error,"2,157"
+Cobb,Gwinnett,Estimate,"7,745"
+Cobb,Gwinnett,Margin of Error,658
+Cobb,Hall,Estimate,330
+Cobb,Hall,Margin of Error,134
+Cobb,Henry,Estimate,280
+Cobb,Henry,Margin of Error,116
+Cobb,Newton,Estimate,205
+Cobb,Newton,Margin of Error,100
+Cobb,Paulding,Estimate,"2,920"
+Cobb,Paulding,Margin of Error,542
+Cobb,Rockdale,Estimate,275
+Cobb,Rockdale,Margin of Error,142
+Cobb,Spalding,Estimate,85
+Cobb,Spalding,Margin of Error,62
+Cobb,Walton,Estimate,45
+Cobb,Walton,Margin of Error,39
+Coweta,Bartow,Estimate,45
+Coweta,Bartow,Margin of Error,39
+Coweta,Carroll,Estimate,700
+Coweta,Carroll,Margin of Error,229
+Coweta,Cherokee,Estimate,10
+Coweta,Cherokee,Margin of Error,19
+Coweta,Clayton,Estimate,"3,435"
+Coweta,Clayton,Margin of Error,471
+Coweta,Cobb,Estimate,"1,200"
+Coweta,Cobb,Margin of Error,262
+Coweta,Coweta,Estimate,"29,025"
+Coweta,Coweta,Margin of Error,"1,386"
+Coweta,DeKalb,Estimate,"1,900"
+Coweta,DeKalb,Margin of Error,439
+Coweta,Douglas,Estimate,480
+Coweta,Douglas,Margin of Error,151
+Coweta,Fayette,Estimate,"8,715"
+Coweta,Fayette,Margin of Error,668
+Coweta,Forsyth,Estimate,70
+Coweta,Forsyth,Margin of Error,87
+Coweta,Fulton,Estimate,"12,170"
+Coweta,Fulton,Margin of Error,745
+Coweta,Gwinnett,Estimate,335
+Coweta,Gwinnett,Margin of Error,135
+Coweta,Hall,Estimate,40
+Coweta,Hall,Margin of Error,39
+Coweta,Henry,Estimate,415
+Coweta,Henry,Margin of Error,125
+Coweta,Paulding,Estimate,85
+Coweta,Paulding,Margin of Error,58
+Coweta,Rockdale,Estimate,180
+Coweta,Rockdale,Margin of Error,78
+Coweta,Spalding,Estimate,360
+Coweta,Spalding,Margin of Error,115
+Coweta,Walton,Estimate,10
+Coweta,Walton,Margin of Error,13
+Dawson,Bartow,Estimate,10
+Dawson,Bartow,Margin of Error,19
+Dawson,Cherokee,Estimate,85
+Dawson,Cherokee,Margin of Error,101
+Dawson,Clayton,Estimate,40
+Dawson,Clayton,Margin of Error,55
+Dawson,Cobb,Estimate,70
+Dawson,Cobb,Margin of Error,68
+Dawson,Dawson,Estimate,"3,580"
+Dawson,Dawson,Margin of Error,452
+Dawson,DeKalb,Estimate,165
+Dawson,DeKalb,Margin of Error,70
+Dawson,Forsyth,Estimate,"2,790"
+Dawson,Forsyth,Margin of Error,378
+Dawson,Fulton,Estimate,"1,485"
+Dawson,Fulton,Margin of Error,306
+Dawson,Gwinnett,Estimate,410
+Dawson,Gwinnett,Margin of Error,145
+Dawson,Hall,Estimate,660
+Dawson,Hall,Margin of Error,208
+Dawson,Henry,Estimate,10
+Dawson,Henry,Margin of Error,15
+Dawson,Newton,Estimate,4
+Dawson,Newton,Margin of Error,10
+DeKalb,Barrow,Estimate,355
+DeKalb,Barrow,Margin of Error,176
+DeKalb,Bartow,Estimate,75
+DeKalb,Bartow,Margin of Error,48
+DeKalb,Carroll,Estimate,170
+DeKalb,Carroll,Margin of Error,102
+DeKalb,Cherokee,Estimate,320
+DeKalb,Cherokee,Margin of Error,157
+DeKalb,Clayton,Estimate,"7,880"
+DeKalb,Clayton,Margin of Error,733
+DeKalb,Cobb,Estimate,"11,545"
+DeKalb,Cobb,Margin of Error,868
+DeKalb,Coweta,Estimate,460
+DeKalb,Coweta,Margin of Error,226
+DeKalb,Dawson,Estimate,25
+DeKalb,Dawson,Margin of Error,25
+DeKalb,DeKalb,Estimate,"154,220"
+DeKalb,DeKalb,Margin of Error,"2,749"
+DeKalb,Douglas,Estimate,975
+DeKalb,Douglas,Margin of Error,219
+DeKalb,Fayette,Estimate,730
+DeKalb,Fayette,Margin of Error,250
+DeKalb,Forsyth,Estimate,"1,490"
+DeKalb,Forsyth,Margin of Error,252
+DeKalb,Fulton,Estimate,"121,290"
+DeKalb,Fulton,Margin of Error,"2,130"
+DeKalb,Gwinnett,Estimate,"30,005"
+DeKalb,Gwinnett,Margin of Error,"1,566"
+DeKalb,Hall,Estimate,"1,230"
+DeKalb,Hall,Margin of Error,311
+DeKalb,Henry,Estimate,"2,290"
+DeKalb,Henry,Margin of Error,423
+DeKalb,Newton,Estimate,880
+DeKalb,Newton,Margin of Error,265
+DeKalb,Paulding,Estimate,45
+DeKalb,Paulding,Margin of Error,52
+DeKalb,Rockdale,Estimate,"3,560"
+DeKalb,Rockdale,Margin of Error,675
+DeKalb,Spalding,Estimate,75
+DeKalb,Spalding,Margin of Error,46
+DeKalb,Walton,Estimate,280
+DeKalb,Walton,Margin of Error,129
+Douglas,Bartow,Estimate,155
+Douglas,Bartow,Margin of Error,112
+Douglas,Carroll,Estimate,"2,835"
+Douglas,Carroll,Margin of Error,377
+Douglas,Cherokee,Estimate,75
+Douglas,Cherokee,Margin of Error,50
+Douglas,Clayton,Estimate,890
+Douglas,Clayton,Margin of Error,223
+Douglas,Cobb,Estimate,"10,120"
+Douglas,Cobb,Margin of Error,876
+Douglas,Coweta,Estimate,525
+Douglas,Coweta,Margin of Error,168
+Douglas,DeKalb,Estimate,"2,485"
+Douglas,DeKalb,Margin of Error,498
+Douglas,Douglas,Estimate,"24,000"
+Douglas,Douglas,Margin of Error,"1,210"
+Douglas,Fayette,Estimate,325
+Douglas,Fayette,Margin of Error,192
+Douglas,Forsyth,Estimate,15
+Douglas,Forsyth,Margin of Error,24
+Douglas,Fulton,Estimate,"17,070"
+Douglas,Fulton,Margin of Error,"1,041"
+Douglas,Gwinnett,Estimate,930
+Douglas,Gwinnett,Margin of Error,281
+Douglas,Hall,Estimate,10
+Douglas,Hall,Margin of Error,16
+Douglas,Henry,Estimate,275
+Douglas,Henry,Margin of Error,136
+Douglas,Newton,Estimate,4
+Douglas,Newton,Margin of Error,16
+Douglas,Paulding,Estimate,"1,270"
+Douglas,Paulding,Margin of Error,308
+Douglas,Rockdale,Estimate,65
+Douglas,Rockdale,Margin of Error,49
+Douglas,Spalding,Estimate,165
+Douglas,Spalding,Margin of Error,130
+Fayette,Carroll,Estimate,170
+Fayette,Carroll,Margin of Error,111
+Fayette,Clayton,Estimate,"4,310"
+Fayette,Clayton,Margin of Error,446
+Fayette,Cobb,Estimate,"1,530"
+Fayette,Cobb,Margin of Error,309
+Fayette,Coweta,Estimate,"2,140"
+Fayette,Coweta,Margin of Error,371
+Fayette,DeKalb,Estimate,"1,415"
+Fayette,DeKalb,Margin of Error,243
+Fayette,Douglas,Estimate,345
+Fayette,Douglas,Margin of Error,155
+Fayette,Fayette,Estimate,"23,570"
+Fayette,Fayette,Margin of Error,841
+Fayette,Forsyth,Estimate,25
+Fayette,Forsyth,Margin of Error,27
+Fayette,Fulton,Estimate,"12,600"
+Fayette,Fulton,Margin of Error,840
+Fayette,Gwinnett,Estimate,325
+Fayette,Gwinnett,Margin of Error,148
+Fayette,Henry,Estimate,"1,095"
+Fayette,Henry,Margin of Error,252
+Fayette,Newton,Estimate,50
+Fayette,Newton,Margin of Error,65
+Fayette,Paulding,Estimate,25
+Fayette,Paulding,Margin of Error,38
+Fayette,Rockdale,Estimate,90
+Fayette,Rockdale,Margin of Error,56
+Fayette,Spalding,Estimate,675
+Fayette,Spalding,Margin of Error,158
+Forsyth,Barrow,Estimate,45
+Forsyth,Barrow,Margin of Error,38
+Forsyth,Bartow,Estimate,40
+Forsyth,Bartow,Margin of Error,28
+Forsyth,Cherokee,Estimate,770
+Forsyth,Cherokee,Margin of Error,192
+Forsyth,Clayton,Estimate,260
+Forsyth,Clayton,Margin of Error,115
+Forsyth,Cobb,Estimate,"2,110"
+Forsyth,Cobb,Margin of Error,256
+Forsyth,Coweta,Estimate,20
+Forsyth,Coweta,Margin of Error,24
+Forsyth,Dawson,Estimate,"1,220"
+Forsyth,Dawson,Margin of Error,242
+Forsyth,DeKalb,Estimate,"3,615"
+Forsyth,DeKalb,Margin of Error,356
+Forsyth,Douglas,Estimate,30
+Forsyth,Douglas,Margin of Error,27
+Forsyth,Fayette,Estimate,70
+Forsyth,Fayette,Margin of Error,80
+Forsyth,Forsyth,Estimate,"45,815"
+Forsyth,Forsyth,Margin of Error,"1,221"
+Forsyth,Fulton,Estimate,"28,465"
+Forsyth,Fulton,Margin of Error,988
+Forsyth,Gwinnett,Estimate,"8,790"
+Forsyth,Gwinnett,Margin of Error,590
+Forsyth,Hall,Estimate,"2,395"
+Forsyth,Hall,Margin of Error,357
+Forsyth,Henry,Estimate,45
+Forsyth,Henry,Margin of Error,38
+Forsyth,Newton,Estimate,45
+Forsyth,Newton,Margin of Error,39
+Forsyth,Paulding,Estimate,10
+Forsyth,Paulding,Margin of Error,13
+Forsyth,Rockdale,Estimate,30
+Forsyth,Rockdale,Margin of Error,27
+Forsyth,Walton,Estimate,50
+Forsyth,Walton,Margin of Error,42
+Fulton,Barrow,Estimate,30
+Fulton,Barrow,Margin of Error,30
+Fulton,Bartow,Estimate,365
+Fulton,Bartow,Margin of Error,192
+Fulton,Carroll,Estimate,235
+Fulton,Carroll,Margin of Error,127
+Fulton,Cherokee,Estimate,"1,280"
+Fulton,Cherokee,Margin of Error,269
+Fulton,Clayton,Estimate,"10,995"
+Fulton,Clayton,Margin of Error,"1,173"
+Fulton,Cobb,Estimate,"26,915"
+Fulton,Cobb,Margin of Error,"1,476"
+Fulton,Coweta,Estimate,"1,135"
+Fulton,Coweta,Margin of Error,281
+Fulton,Dawson,Estimate,35
+Fulton,Dawson,Margin of Error,37
+Fulton,DeKalb,Estimate,"39,365"
+Fulton,DeKalb,Margin of Error,"1,343"
+Fulton,Douglas,Estimate,"2,245"
+Fulton,Douglas,Margin of Error,430
+Fulton,Fayette,Estimate,"2,630"
+Fulton,Fayette,Margin of Error,471
+Fulton,Forsyth,Estimate,"7,300"
+Fulton,Forsyth,Margin of Error,833
+Fulton,Fulton,Estimate,"351,485"
+Fulton,Fulton,Margin of Error,"3,722"
+Fulton,Gwinnett,Estimate,"20,195"
+Fulton,Gwinnett,Margin of Error,"1,144"
+Fulton,Hall,Estimate,485
+Fulton,Hall,Margin of Error,159
+Fulton,Henry,Estimate,"1,355"
+Fulton,Henry,Margin of Error,360
+Fulton,Newton,Estimate,65
+Fulton,Newton,Margin of Error,39
+Fulton,Paulding,Estimate,175
+Fulton,Paulding,Margin of Error,98
+Fulton,Rockdale,Estimate,755
+Fulton,Rockdale,Margin of Error,236
+Fulton,Spalding,Estimate,170
+Fulton,Spalding,Margin of Error,88
+Fulton,Walton,Estimate,100
+Fulton,Walton,Margin of Error,68
+Gwinnett,Barrow,Estimate,"3,330"
+Gwinnett,Barrow,Margin of Error,669
+Gwinnett,Bartow,Estimate,290
+Gwinnett,Bartow,Margin of Error,185
+Gwinnett,Carroll,Estimate,165
+Gwinnett,Carroll,Margin of Error,117
+Gwinnett,Cherokee,Estimate,410
+Gwinnett,Cherokee,Margin of Error,176
+Gwinnett,Clayton,Estimate,"3,045"
+Gwinnett,Clayton,Margin of Error,515
+Gwinnett,Cobb,Estimate,"9,190"
+Gwinnett,Cobb,Margin of Error,818
+Gwinnett,Coweta,Estimate,100
+Gwinnett,Coweta,Margin of Error,76
+Gwinnett,Dawson,Estimate,365
+Gwinnett,Dawson,Margin of Error,251
+Gwinnett,DeKalb,Estimate,"44,515"
+Gwinnett,DeKalb,Margin of Error,"1,876"
+Gwinnett,Douglas,Estimate,325
+Gwinnett,Douglas,Margin of Error,176
+Gwinnett,Fayette,Estimate,465
+Gwinnett,Fayette,Margin of Error,295
+Gwinnett,Forsyth,Estimate,"8,150"
+Gwinnett,Forsyth,Margin of Error,790
+Gwinnett,Fulton,Estimate,"75,100"
+Gwinnett,Fulton,Margin of Error,"2,658"
+Gwinnett,Gwinnett,Estimate,"243,680"
+Gwinnett,Gwinnett,Margin of Error,"3,805"
+Gwinnett,Hall,Estimate,"8,525"
+Gwinnett,Hall,Margin of Error,869
+Gwinnett,Henry,Estimate,720
+Gwinnett,Henry,Margin of Error,280
+Gwinnett,Newton,Estimate,600
+Gwinnett,Newton,Margin of Error,165
+Gwinnett,Paulding,Estimate,90
+Gwinnett,Paulding,Margin of Error,91
+Gwinnett,Rockdale,Estimate,"2,000"
+Gwinnett,Rockdale,Margin of Error,453
+Gwinnett,Spalding,Estimate,15
+Gwinnett,Spalding,Margin of Error,20
+Gwinnett,Walton,Estimate,"2,415"
+Gwinnett,Walton,Margin of Error,458
+Hall,Barrow,Estimate,520
+Hall,Barrow,Margin of Error,148
+Hall,Cherokee,Estimate,95
+Hall,Cherokee,Margin of Error,60
+Hall,Clayton,Estimate,155
+Hall,Clayton,Margin of Error,97
+Hall,Cobb,Estimate,275
+Hall,Cobb,Margin of Error,101
+Hall,Dawson,Estimate,680
+Hall,Dawson,Margin of Error,224
+Hall,DeKalb,Estimate,"1,085"
+Hall,DeKalb,Margin of Error,203
+Hall,Douglas,Estimate,4
+Hall,Douglas,Margin of Error,13
+Hall,Fayette,Estimate,15
+Hall,Fayette,Margin of Error,30
+Hall,Forsyth,Estimate,"2,985"
+Hall,Forsyth,Margin of Error,490
+Hall,Fulton,Estimate,"2,980"
+Hall,Fulton,Margin of Error,373
+Hall,Gwinnett,Estimate,"10,345"
+Hall,Gwinnett,Margin of Error,755
+Hall,Hall,Estimate,"57,905"
+Hall,Hall,Margin of Error,"1,297"
+Hall,Henry,Estimate,30
+Hall,Henry,Margin of Error,37
+Hall,Newton,Estimate,85
+Hall,Newton,Margin of Error,62
+Hall,Paulding,Estimate,50
+Hall,Paulding,Margin of Error,54
+Hall,Rockdale,Estimate,35
+Hall,Rockdale,Margin of Error,37
+Hall,Walton,Estimate,185
+Hall,Walton,Margin of Error,84
+Henry,Bartow,Estimate,50
+Henry,Bartow,Margin of Error,63
+Henry,Carroll,Estimate,35
+Henry,Carroll,Margin of Error,41
+Henry,Cherokee,Estimate,70
+Henry,Cherokee,Margin of Error,77
+Henry,Clayton,Estimate,"13,520"
+Henry,Clayton,Margin of Error,"1,158"
+Henry,Cobb,Estimate,"1,990"
+Henry,Cobb,Margin of Error,433
+Henry,Coweta,Estimate,580
+Henry,Coweta,Margin of Error,204
+Henry,DeKalb,Estimate,"8,200"
+Henry,DeKalb,Margin of Error,642
+Henry,Douglas,Estimate,155
+Henry,Douglas,Margin of Error,101
+Henry,Fayette,Estimate,"1,485"
+Henry,Fayette,Margin of Error,364
+Henry,Fulton,Estimate,"17,980"
+Henry,Fulton,Margin of Error,"1,235"
+Henry,Gwinnett,Estimate,"1,695"
+Henry,Gwinnett,Margin of Error,355
+Henry,Hall,Estimate,15
+Henry,Hall,Margin of Error,33
+Henry,Henry,Estimate,"37,450"
+Henry,Henry,Margin of Error,"1,671"
+Henry,Newton,Estimate,600
+Henry,Newton,Margin of Error,202
+Henry,Paulding,Estimate,25
+Henry,Paulding,Margin of Error,20
+Henry,Rockdale,Estimate,"1,795"
+Henry,Rockdale,Margin of Error,476
+Henry,Spalding,Estimate,"2,140"
+Henry,Spalding,Margin of Error,466
+Henry,Walton,Estimate,35
+Henry,Walton,Margin of Error,36
+Newton,Barrow,Estimate,50
+Newton,Barrow,Margin of Error,46
+Newton,Bartow,Estimate,60
+Newton,Bartow,Margin of Error,74
+Newton,Clayton,Estimate,"1,050"
+Newton,Clayton,Margin of Error,337
+Newton,Cobb,Estimate,380
+Newton,Cobb,Margin of Error,196
+Newton,DeKalb,Estimate,"4,430"
+Newton,DeKalb,Margin of Error,653
+Newton,Douglas,Estimate,90
+Newton,Douglas,Margin of Error,92
+Newton,Fayette,Estimate,140
+Newton,Fayette,Margin of Error,112
+Newton,Forsyth,Estimate,35
+Newton,Forsyth,Margin of Error,39
+Newton,Fulton,Estimate,"3,735"
+Newton,Fulton,Margin of Error,532
+Newton,Gwinnett,Estimate,"2,645"
+Newton,Gwinnett,Margin of Error,594
+Newton,Hall,Estimate,75
+Newton,Hall,Margin of Error,66
+Newton,Henry,Estimate,"1,030"
+Newton,Henry,Margin of Error,335
+Newton,Newton,Estimate,"17,720"
+Newton,Newton,Margin of Error,991
+Newton,Rockdale,Estimate,"8,650"
+Newton,Rockdale,Margin of Error,832
+Newton,Spalding,Estimate,250
+Newton,Spalding,Margin of Error,221
+Newton,Walton,Estimate,"1,200"
+Newton,Walton,Margin of Error,270
+Paulding,Bartow,Estimate,"1,640"
+Paulding,Bartow,Margin of Error,426
+Paulding,Carroll,Estimate,"1,495"
+Paulding,Carroll,Margin of Error,378
+Paulding,Cherokee,Estimate,715
+Paulding,Cherokee,Margin of Error,247
+Paulding,Clayton,Estimate,565
+Paulding,Clayton,Margin of Error,217
+Paulding,Cobb,Estimate,"23,740"
+Paulding,Cobb,Margin of Error,"1,323"
+Paulding,Coweta,Estimate,55
+Paulding,Coweta,Margin of Error,47
+Paulding,DeKalb,Estimate,"1,750"
+Paulding,DeKalb,Margin of Error,359
+Paulding,Douglas,Estimate,"4,570"
+Paulding,Douglas,Margin of Error,486
+Paulding,Fayette,Estimate,100
+Paulding,Fayette,Margin of Error,62
+Paulding,Forsyth,Estimate,60
+Paulding,Forsyth,Margin of Error,37
+Paulding,Fulton,Estimate,"9,775"
+Paulding,Fulton,Margin of Error,772
+Paulding,Gwinnett,Estimate,"1,250"
+Paulding,Gwinnett,Margin of Error,344
+Paulding,Henry,Estimate,50
+Paulding,Henry,Margin of Error,46
+Paulding,Newton,Estimate,165
+Paulding,Newton,Margin of Error,216
+Paulding,Paulding,Estimate,"21,435"
+Paulding,Paulding,Margin of Error,"1,451"
+Paulding,Rockdale,Estimate,70
+Paulding,Rockdale,Margin of Error,51
+Rockdale,Barrow,Estimate,70
+Rockdale,Barrow,Margin of Error,49
+Rockdale,Cherokee,Estimate,25
+Rockdale,Cherokee,Margin of Error,25
+Rockdale,Clayton,Estimate,920
+Rockdale,Clayton,Margin of Error,235
+Rockdale,Cobb,Estimate,400
+Rockdale,Cobb,Margin of Error,123
+Rockdale,DeKalb,Estimate,"6,230"
+Rockdale,DeKalb,Margin of Error,686
+Rockdale,Douglas,Estimate,25
+Rockdale,Douglas,Margin of Error,45
+Rockdale,Forsyth,Estimate,15
+Rockdale,Forsyth,Margin of Error,21
+Rockdale,Fulton,Estimate,"6,045"
+Rockdale,Fulton,Margin of Error,604
+Rockdale,Gwinnett,Estimate,"1,985"
+Rockdale,Gwinnett,Margin of Error,364
+Rockdale,Hall,Estimate,40
+Rockdale,Hall,Margin of Error,38
+Rockdale,Henry,Estimate,"1,045"
+Rockdale,Henry,Margin of Error,251
+Rockdale,Newton,Estimate,"2,610"
+Rockdale,Newton,Margin of Error,353
+Rockdale,Rockdale,Estimate,"16,370"
+Rockdale,Rockdale,Margin of Error,893
+Rockdale,Spalding,Estimate,20
+Rockdale,Spalding,Margin of Error,16
+Rockdale,Walton,Estimate,475
+Rockdale,Walton,Margin of Error,176
+Spalding,Bartow,Estimate,45
+Spalding,Bartow,Margin of Error,55
+Spalding,Cherokee,Estimate,20
+Spalding,Cherokee,Margin of Error,33
+Spalding,Clayton,Estimate,"1,625"
+Spalding,Clayton,Margin of Error,376
+Spalding,Cobb,Estimate,155
+Spalding,Cobb,Margin of Error,83
+Spalding,Coweta,Estimate,365
+Spalding,Coweta,Margin of Error,151
+Spalding,DeKalb,Estimate,345
+Spalding,DeKalb,Margin of Error,118
+Spalding,Douglas,Estimate,65
+Spalding,Douglas,Margin of Error,60
+Spalding,Fayette,Estimate,"1,235"
+Spalding,Fayette,Margin of Error,266
+Spalding,Fulton,Estimate,"1,665"
+Spalding,Fulton,Margin of Error,405
+Spalding,Gwinnett,Estimate,85
+Spalding,Gwinnett,Margin of Error,73
+Spalding,Henry,Estimate,"3,770"
+Spalding,Henry,Margin of Error,604
+Spalding,Newton,Estimate,10
+Spalding,Newton,Margin of Error,15
+Spalding,Rockdale,Estimate,50
+Spalding,Rockdale,Margin of Error,72
+Spalding,Spalding,Estimate,"11,605"
+Spalding,Spalding,Margin of Error,879
+Walton,Barrow,Estimate,"1,145"
+Walton,Barrow,Margin of Error,211
+Walton,Carroll,Estimate,45
+Walton,Carroll,Margin of Error,39
+Walton,Cherokee,Estimate,25
+Walton,Cherokee,Margin of Error,40
+Walton,Clayton,Estimate,225
+Walton,Clayton,Margin of Error,92
+Walton,Cobb,Estimate,470
+Walton,Cobb,Margin of Error,235
+Walton,DeKalb,Estimate,"2,520"
+Walton,DeKalb,Margin of Error,444
+Walton,Fayette,Estimate,10
+Walton,Fayette,Margin of Error,14
+Walton,Forsyth,Estimate,190
+Walton,Forsyth,Margin of Error,146
+Walton,Fulton,Estimate,"1,970"
+Walton,Fulton,Margin of Error,342
+Walton,Gwinnett,Estimate,"8,350"
+Walton,Gwinnett,Margin of Error,682
+Walton,Hall,Estimate,200
+Walton,Hall,Margin of Error,69
+Walton,Henry,Estimate,70
+Walton,Henry,Margin of Error,57
+Walton,Newton,Estimate,"1,800"
+Walton,Newton,Margin of Error,337
+Walton,Paulding,Estimate,35
+Walton,Paulding,Margin of Error,38
+Walton,Rockdale,Estimate,"2,025"
+Walton,Rockdale,Margin of Error,350
+Walton,Spalding,Estimate,40
+Walton,Spalding,Margin of Error,38
+Walton,Walton,Estimate,"15,305"
+Walton,Walton,Margin of Error,838

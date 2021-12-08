@@ -1,0 +1,89 @@
+library(tigris)
+library(ggplot2)
+library(tidyverse)
+library(geosphere)
+library(leaflet)
+library(RColorBrewer)
+library(devtools)
+devtools::install_github("timelyportfolio/parsetR")
+devtools::install_github("mattflor/chorddiag")
+
+ga <- counties("Georgia", cb = TRUE)
+gat <- tracts("Georgia",cb=TRUE)
+
+ga$FIPS <- as.numeric(as.character(ga$STATEFP))*1000 + as.numeric(as.character(ga$COUNTYFP))
+
+gg <- ggplot()
+gg <- gg + geom_sf(data = ga, color="black",
+                   fill="white", size=0.25)
+gg
+
+
+library(readxl)
+model_trips <- read_excel("model_trips.xlsx",sheet="MT")
+
+
+model_trips <- subset(model_trips,Origins != Destinations)
+
+gaCounty <- subset(geoCounty,state=="GA")
+gaCounty <- gaCounty %>% mutate(county = str_remove(county," County"))
+
+oc <- subset(gaCounty,select=c(2,4,5))
+dc <- subset(gaCounty,select=c(2,4,5))
+
+mtrips <- model_trips %>% left_join(oc,by=c('Origins' = 'county')) %>% left_join(dc,by=c('Destinations'='county'))
+
+
+flows <- gcIntermediate(mtrips[,4:5], mtrips[,6:7], sp = TRUE, addStartEnd = TRUE)
+
+flows$counts <- mtrips$ModelTrips
+
+flows$origins <- mtrips$Origins
+
+flows$destinations <- mtrips$Destinations
+
+hover <- paste0(flows$origins, " to ", 
+                flows$destinations, ': ', 
+                as.character(flows$counts))
+
+pal <- colorFactor(brewer.pal(4, 'Set2'), flows$origins)
+
+leaflet() %>%
+  addProviderTiles('CartoDB.Positron') %>%
+  addPolylines(data = flows, weight = ~counts, label = hover, 
+               group = ~origins, color = ~pal(origins)) %>%
+  addLayersControl(overlayGroups = unique(flows$origins), 
+                   options = layersControlOptions(collapsed = FALSE))
+
+
+students = data.frame(Math = c(50, 25, 5, 12),
+                      Art = c(10, 55, 5, 20),
+                      Science = c(45,12,29, 20),
+                      PE = c(24,67,27,15))
+
+students = as.matrix(students)
+
+row.names(students) = c("Section A", "Section B", "Section C", "Section D")
+
+chorddiag(students, type = "bipartite", showTicks = F, groupnameFontsize = 14, groupnamePadding = 10, margin = 90)
+
+
+
+modeltrips <- read_excel("model_trips.xlsx",
+sheet = "Sheet2")
+
+modeltrips <- as.matrix(modeltrips)
+
+row.names(modeltrips) =c("Barrow","Bartow","Carroll","Cherokee","Clayton","Cobb","Coweta","Dawson","DeKalb","Douglas","Fayette","Forsyth","Fulton","Gwinnett","Hall","Henry","Newton","Paulding","Rockdale","Spalding","Walton")
+
+chorddiag(modeltrips, type = "bipartite", showTicks = F, groupnameFontsize = 14, groupnamePadding = 10, margin = 90)
+
+library(readxl)
+modeltrips <- read_excel("data/model_trips.xlsx",
+                         sheet = "Diff")
+
+modeltrips <- as.matrix(modeltrips)
+
+row.names(modeltrips) =c("Clayton","Cobb","DeKalb","Fulton","Gwinnett")
+
+chorddiag(modeltrips, type = "bipartite", showTicks = F, groupnameFontsize = 14, groupnamePadding = 10, margin = 90)

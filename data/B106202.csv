@@ -1,0 +1,2413 @@
+NAME,MOT,Output,MeanTT
+"Alachua County, Florida","Total, means of transportation",Estimate,20.9
+"Alachua County, Florida","Total, means of transportation",MOE,0.5
+"Alachua County, Florida","Car, truck, or van -- Drove alone",Estimate,20.9
+"Alachua County, Florida","Car, truck, or van -- Drove alone",MOE,0.6
+"Alachua County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,23
+"Alachua County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,1.7
+"Alachua County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,24.3
+"Alachua County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,3.2
+"Alachua County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,25.7
+"Alachua County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,4.9
+"Alachua County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,20.5
+"Alachua County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,6.8
+"Alachua County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,30.7
+"Alachua County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,11.7
+"Alachua County, Florida",Bus or trolley bus,Estimate,28.7
+"Alachua County, Florida",Bus or trolley bus,MOE,2
+"Alachua County, Florida",Streetcar or trolley car,Estimate,-
+"Alachua County, Florida",Streetcar or trolley car,MOE,**
+"Alachua County, Florida",Subway or elevated,Estimate,34.7
+"Alachua County, Florida",Subway or elevated,MOE,13.8
+"Alachua County, Florida",Railroad,Estimate,-
+"Alachua County, Florida",Railroad,MOE,**
+"Alachua County, Florida",Ferryboat,Estimate,-
+"Alachua County, Florida",Ferryboat,MOE,**
+"Alachua County, Florida",Bicycle,Estimate,15.9
+"Alachua County, Florida",Bicycle,MOE,1.4
+"Alachua County, Florida",Walked,Estimate,12.2
+"Alachua County, Florida",Walked,MOE,1.4
+"Alachua County, Florida",Taxicab,Estimate,73.8
+"Alachua County, Florida",Taxicab,MOE,90.8
+"Alachua County, Florida",Motorcycle,Estimate,13.5
+"Alachua County, Florida",Motorcycle,MOE,2
+"Alachua County, Florida",Other method,Estimate,18
+"Alachua County, Florida",Other method,MOE,6.6
+"Alachua County, Florida",Worked at home,Estimate,0
+"Alachua County, Florida",Worked at home,MOE,0
+"Baker County, Florida","Total, means of transportation",Estimate,29.9
+"Baker County, Florida","Total, means of transportation",MOE,1.8
+"Baker County, Florida","Car, truck, or van -- Drove alone",Estimate,29.5
+"Baker County, Florida","Car, truck, or van -- Drove alone",MOE,1.7
+"Baker County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,32.5
+"Baker County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,9.2
+"Baker County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,52.9
+"Baker County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,28
+"Baker County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,96.6
+"Baker County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,70.4
+"Baker County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,49
+"Baker County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,33
+"Baker County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,-
+"Baker County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,**
+"Baker County, Florida",Bus or trolley bus,Estimate,-
+"Baker County, Florida",Bus or trolley bus,MOE,**
+"Baker County, Florida",Streetcar or trolley car,Estimate,-
+"Baker County, Florida",Streetcar or trolley car,MOE,**
+"Baker County, Florida",Subway or elevated,Estimate,-
+"Baker County, Florida",Subway or elevated,MOE,**
+"Baker County, Florida",Railroad,Estimate,-
+"Baker County, Florida",Railroad,MOE,**
+"Baker County, Florida",Ferryboat,Estimate,-
+"Baker County, Florida",Ferryboat,MOE,**
+"Baker County, Florida",Bicycle,Estimate,18.3
+"Baker County, Florida",Bicycle,MOE,10.5
+"Baker County, Florida",Walked,Estimate,10.2
+"Baker County, Florida",Walked,MOE,7.3
+"Baker County, Florida",Taxicab,Estimate,-
+"Baker County, Florida",Taxicab,MOE,**
+"Baker County, Florida",Motorcycle,Estimate,-
+"Baker County, Florida",Motorcycle,MOE,**
+"Baker County, Florida",Other method,Estimate,9.9
+"Baker County, Florida",Other method,MOE,6.8
+"Baker County, Florida",Worked at home,Estimate,0
+"Baker County, Florida",Worked at home,MOE,0
+"Bay County, Florida","Total, means of transportation",Estimate,22.8
+"Bay County, Florida","Total, means of transportation",MOE,0.8
+"Bay County, Florida","Car, truck, or van -- Drove alone",Estimate,22.1
+"Bay County, Florida","Car, truck, or van -- Drove alone",MOE,0.7
+"Bay County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,25.5
+"Bay County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,2
+"Bay County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,26
+"Bay County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,4.1
+"Bay County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,31.7
+"Bay County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,12.6
+"Bay County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,20.9
+"Bay County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,4.4
+"Bay County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,35.3
+"Bay County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,39.7
+"Bay County, Florida",Bus or trolley bus,Estimate,41.1
+"Bay County, Florida",Bus or trolley bus,MOE,5.8
+"Bay County, Florida",Streetcar or trolley car,Estimate,14.7
+"Bay County, Florida",Streetcar or trolley car,MOE,14.4
+"Bay County, Florida",Subway or elevated,Estimate,-
+"Bay County, Florida",Subway or elevated,MOE,**
+"Bay County, Florida",Railroad,Estimate,-
+"Bay County, Florida",Railroad,MOE,**
+"Bay County, Florida",Ferryboat,Estimate,-
+"Bay County, Florida",Ferryboat,MOE,**
+"Bay County, Florida",Bicycle,Estimate,25
+"Bay County, Florida",Bicycle,MOE,12.8
+"Bay County, Florida",Walked,Estimate,12.5
+"Bay County, Florida",Walked,MOE,3.1
+"Bay County, Florida",Taxicab,Estimate,22.1
+"Bay County, Florida",Taxicab,MOE,8.1
+"Bay County, Florida",Motorcycle,Estimate,20
+"Bay County, Florida",Motorcycle,MOE,3.1
+"Bay County, Florida",Other method,Estimate,54.7
+"Bay County, Florida",Other method,MOE,21
+"Bay County, Florida",Worked at home,Estimate,0
+"Bay County, Florida",Worked at home,MOE,0
+"Bradford County, Florida","Total, means of transportation",Estimate,32.2
+"Bradford County, Florida","Total, means of transportation",MOE,3.2
+"Bradford County, Florida","Car, truck, or van -- Drove alone",Estimate,32.8
+"Bradford County, Florida","Car, truck, or van -- Drove alone",MOE,3.2
+"Bradford County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,37.5
+"Bradford County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,12.6
+"Bradford County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,13.1
+"Bradford County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,2.9
+"Bradford County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,17.6
+"Bradford County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,10.7
+"Bradford County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,7.5
+"Bradford County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,10.3
+"Bradford County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,-
+"Bradford County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,**
+"Bradford County, Florida",Bus or trolley bus,Estimate,33.3
+"Bradford County, Florida",Bus or trolley bus,MOE,28.4
+"Bradford County, Florida",Streetcar or trolley car,Estimate,-
+"Bradford County, Florida",Streetcar or trolley car,MOE,**
+"Bradford County, Florida",Subway or elevated,Estimate,-
+"Bradford County, Florida",Subway or elevated,MOE,**
+"Bradford County, Florida",Railroad,Estimate,-
+"Bradford County, Florida",Railroad,MOE,**
+"Bradford County, Florida",Ferryboat,Estimate,-
+"Bradford County, Florida",Ferryboat,MOE,**
+"Bradford County, Florida",Bicycle,Estimate,-
+"Bradford County, Florida",Bicycle,MOE,**
+"Bradford County, Florida",Walked,Estimate,7.2
+"Bradford County, Florida",Walked,MOE,3.7
+"Bradford County, Florida",Taxicab,Estimate,-
+"Bradford County, Florida",Taxicab,MOE,**
+"Bradford County, Florida",Motorcycle,Estimate,37.3
+"Bradford County, Florida",Motorcycle,MOE,20.2
+"Bradford County, Florida",Other method,Estimate,43.1
+"Bradford County, Florida",Other method,MOE,89.5
+"Bradford County, Florida",Worked at home,Estimate,0
+"Bradford County, Florida",Worked at home,MOE,0
+"Brevard County, Florida","Total, means of transportation",Estimate,24.2
+"Brevard County, Florida","Total, means of transportation",MOE,0.4
+"Brevard County, Florida","Car, truck, or van -- Drove alone",Estimate,23.6
+"Brevard County, Florida","Car, truck, or van -- Drove alone",MOE,0.4
+"Brevard County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,25.4
+"Brevard County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,1.4
+"Brevard County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,28
+"Brevard County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,3.7
+"Brevard County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,30.4
+"Brevard County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,5.6
+"Brevard County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,29.4
+"Brevard County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,6.6
+"Brevard County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,28.7
+"Brevard County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,6.5
+"Brevard County, Florida",Bus or trolley bus,Estimate,40.8
+"Brevard County, Florida",Bus or trolley bus,MOE,5.5
+"Brevard County, Florida",Streetcar or trolley car,Estimate,31
+"Brevard County, Florida",Streetcar or trolley car,MOE,16
+"Brevard County, Florida",Subway or elevated,Estimate,19.8
+"Brevard County, Florida",Subway or elevated,MOE,16.7
+"Brevard County, Florida",Railroad,Estimate,105
+"Brevard County, Florida",Railroad,MOE,41.9
+"Brevard County, Florida",Ferryboat,Estimate,-
+"Brevard County, Florida",Ferryboat,MOE,**
+"Brevard County, Florida",Bicycle,Estimate,21.2
+"Brevard County, Florida",Bicycle,MOE,4.4
+"Brevard County, Florida",Walked,Estimate,10
+"Brevard County, Florida",Walked,MOE,2.3
+"Brevard County, Florida",Taxicab,Estimate,42.5
+"Brevard County, Florida",Taxicab,MOE,23.1
+"Brevard County, Florida",Motorcycle,Estimate,21.1
+"Brevard County, Florida",Motorcycle,MOE,2.6
+"Brevard County, Florida",Other method,Estimate,53.6
+"Brevard County, Florida",Other method,MOE,8.8
+"Brevard County, Florida",Worked at home,Estimate,0
+"Brevard County, Florida",Worked at home,MOE,0
+"Broward County, Florida","Total, means of transportation",Estimate,28
+"Broward County, Florida","Total, means of transportation",MOE,0.2
+"Broward County, Florida","Car, truck, or van -- Drove alone",Estimate,27.1
+"Broward County, Florida","Car, truck, or van -- Drove alone",MOE,0.2
+"Broward County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,27
+"Broward County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,0.7
+"Broward County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,28.8
+"Broward County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,1.9
+"Broward County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,31.2
+"Broward County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,3.1
+"Broward County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,38.9
+"Broward County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,5.3
+"Broward County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,29.4
+"Broward County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,5.3
+"Broward County, Florida",Bus or trolley bus,Estimate,52.6
+"Broward County, Florida",Bus or trolley bus,MOE,2.3
+"Broward County, Florida",Streetcar or trolley car,Estimate,16.5
+"Broward County, Florida",Streetcar or trolley car,MOE,7.3
+"Broward County, Florida",Subway or elevated,Estimate,40.7
+"Broward County, Florida",Subway or elevated,MOE,7.5
+"Broward County, Florida",Railroad,Estimate,70.9
+"Broward County, Florida",Railroad,MOE,7.4
+"Broward County, Florida",Ferryboat,Estimate,-
+"Broward County, Florida",Ferryboat,MOE,**
+"Broward County, Florida",Bicycle,Estimate,23.6
+"Broward County, Florida",Bicycle,MOE,2.4
+"Broward County, Florida",Walked,Estimate,15.6
+"Broward County, Florida",Walked,MOE,1.9
+"Broward County, Florida",Taxicab,Estimate,20
+"Broward County, Florida",Taxicab,MOE,2.9
+"Broward County, Florida",Motorcycle,Estimate,18.1
+"Broward County, Florida",Motorcycle,MOE,2.7
+"Broward County, Florida",Other method,Estimate,43.8
+"Broward County, Florida",Other method,MOE,5
+"Broward County, Florida",Worked at home,Estimate,0
+"Broward County, Florida",Worked at home,MOE,0
+"Calhoun County, Florida","Total, means of transportation",Estimate,28.1
+"Calhoun County, Florida","Total, means of transportation",MOE,2.2
+"Calhoun County, Florida","Car, truck, or van -- Drove alone",Estimate,26.8
+"Calhoun County, Florida","Car, truck, or van -- Drove alone",MOE,2.2
+"Calhoun County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,30
+"Calhoun County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,6.5
+"Calhoun County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,39.3
+"Calhoun County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,9.9
+"Calhoun County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,48.9
+"Calhoun County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,17.2
+"Calhoun County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,-
+"Calhoun County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,**
+"Calhoun County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,-
+"Calhoun County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,**
+"Calhoun County, Florida",Bus or trolley bus,Estimate,-
+"Calhoun County, Florida",Bus or trolley bus,MOE,**
+"Calhoun County, Florida",Streetcar or trolley car,Estimate,-
+"Calhoun County, Florida",Streetcar or trolley car,MOE,**
+"Calhoun County, Florida",Subway or elevated,Estimate,-
+"Calhoun County, Florida",Subway or elevated,MOE,**
+"Calhoun County, Florida",Railroad,Estimate,-
+"Calhoun County, Florida",Railroad,MOE,**
+"Calhoun County, Florida",Ferryboat,Estimate,-
+"Calhoun County, Florida",Ferryboat,MOE,**
+"Calhoun County, Florida",Bicycle,Estimate,12.9
+"Calhoun County, Florida",Bicycle,MOE,8.2
+"Calhoun County, Florida",Walked,Estimate,2
+"Calhoun County, Florida",Walked,MOE,2.3
+"Calhoun County, Florida",Taxicab,Estimate,-
+"Calhoun County, Florida",Taxicab,MOE,**
+"Calhoun County, Florida",Motorcycle,Estimate,-
+"Calhoun County, Florida",Motorcycle,MOE,**
+"Calhoun County, Florida",Other method,Estimate,50.3
+"Calhoun County, Florida",Other method,MOE,47.8
+"Calhoun County, Florida",Worked at home,Estimate,0
+"Calhoun County, Florida",Worked at home,MOE,0
+"Charlotte County, Florida","Total, means of transportation",Estimate,24.1
+"Charlotte County, Florida","Total, means of transportation",MOE,0.8
+"Charlotte County, Florida","Car, truck, or van -- Drove alone",Estimate,23.9
+"Charlotte County, Florida","Car, truck, or van -- Drove alone",MOE,0.9
+"Charlotte County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,25.4
+"Charlotte County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,2.2
+"Charlotte County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,22.5
+"Charlotte County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,5.2
+"Charlotte County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,26.6
+"Charlotte County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,10
+"Charlotte County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,19.7
+"Charlotte County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,1.7
+"Charlotte County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,57.3
+"Charlotte County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,85.7
+"Charlotte County, Florida",Bus or trolley bus,Estimate,49.7
+"Charlotte County, Florida",Bus or trolley bus,MOE,20.5
+"Charlotte County, Florida",Streetcar or trolley car,Estimate,-
+"Charlotte County, Florida",Streetcar or trolley car,MOE,**
+"Charlotte County, Florida",Subway or elevated,Estimate,-
+"Charlotte County, Florida",Subway or elevated,MOE,**
+"Charlotte County, Florida",Railroad,Estimate,-
+"Charlotte County, Florida",Railroad,MOE,**
+"Charlotte County, Florida",Ferryboat,Estimate,-
+"Charlotte County, Florida",Ferryboat,MOE,**
+"Charlotte County, Florida",Bicycle,Estimate,21.7
+"Charlotte County, Florida",Bicycle,MOE,3.6
+"Charlotte County, Florida",Walked,Estimate,9.7
+"Charlotte County, Florida",Walked,MOE,3.2
+"Charlotte County, Florida",Taxicab,Estimate,19
+"Charlotte County, Florida",Taxicab,MOE,7.9
+"Charlotte County, Florida",Motorcycle,Estimate,19.6
+"Charlotte County, Florida",Motorcycle,MOE,4.6
+"Charlotte County, Florida",Other method,Estimate,37.6
+"Charlotte County, Florida",Other method,MOE,11.6
+"Charlotte County, Florida",Worked at home,Estimate,0
+"Charlotte County, Florida",Worked at home,MOE,0
+"Citrus County, Florida","Total, means of transportation",Estimate,25.3
+"Citrus County, Florida","Total, means of transportation",MOE,1
+"Citrus County, Florida","Car, truck, or van -- Drove alone",Estimate,24.7
+"Citrus County, Florida","Car, truck, or van -- Drove alone",MOE,0.8
+"Citrus County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,29.8
+"Citrus County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,3.6
+"Citrus County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,26.2
+"Citrus County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,6.3
+"Citrus County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,38.3
+"Citrus County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,13.5
+"Citrus County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,24.8
+"Citrus County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,5.5
+"Citrus County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,-
+"Citrus County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,**
+"Citrus County, Florida",Bus or trolley bus,Estimate,58.7
+"Citrus County, Florida",Bus or trolley bus,MOE,30.2
+"Citrus County, Florida",Streetcar or trolley car,Estimate,-
+"Citrus County, Florida",Streetcar or trolley car,MOE,**
+"Citrus County, Florida",Subway or elevated,Estimate,-
+"Citrus County, Florida",Subway or elevated,MOE,**
+"Citrus County, Florida",Railroad,Estimate,-
+"Citrus County, Florida",Railroad,MOE,**
+"Citrus County, Florida",Ferryboat,Estimate,17.3
+"Citrus County, Florida",Ferryboat,MOE,14
+"Citrus County, Florida",Bicycle,Estimate,24.9
+"Citrus County, Florida",Bicycle,MOE,15.5
+"Citrus County, Florida",Walked,Estimate,11
+"Citrus County, Florida",Walked,MOE,4.1
+"Citrus County, Florida",Taxicab,Estimate,9.8
+"Citrus County, Florida",Taxicab,MOE,8.6
+"Citrus County, Florida",Motorcycle,Estimate,16.5
+"Citrus County, Florida",Motorcycle,MOE,6.2
+"Citrus County, Florida",Other method,Estimate,42.6
+"Citrus County, Florida",Other method,MOE,40.3
+"Citrus County, Florida",Worked at home,Estimate,0
+"Citrus County, Florida",Worked at home,MOE,0
+"Clay County, Florida","Total, means of transportation",Estimate,33.5
+"Clay County, Florida","Total, means of transportation",MOE,0.7
+"Clay County, Florida","Car, truck, or van -- Drove alone",Estimate,33.5
+"Clay County, Florida","Car, truck, or van -- Drove alone",MOE,0.7
+"Clay County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,35
+"Clay County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,2.4
+"Clay County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,39.9
+"Clay County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,6.5
+"Clay County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,38.6
+"Clay County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,10
+"Clay County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,15.7
+"Clay County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,3
+"Clay County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,21.9
+"Clay County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,6.3
+"Clay County, Florida",Bus or trolley bus,Estimate,33.1
+"Clay County, Florida",Bus or trolley bus,MOE,16.2
+"Clay County, Florida",Streetcar or trolley car,Estimate,-
+"Clay County, Florida",Streetcar or trolley car,MOE,**
+"Clay County, Florida",Subway or elevated,Estimate,-
+"Clay County, Florida",Subway or elevated,MOE,**
+"Clay County, Florida",Railroad,Estimate,58.8
+"Clay County, Florida",Railroad,MOE,87.9
+"Clay County, Florida",Ferryboat,Estimate,-
+"Clay County, Florida",Ferryboat,MOE,**
+"Clay County, Florida",Bicycle,Estimate,23.3
+"Clay County, Florida",Bicycle,MOE,6.9
+"Clay County, Florida",Walked,Estimate,14.7
+"Clay County, Florida",Walked,MOE,5.2
+"Clay County, Florida",Taxicab,Estimate,30
+"Clay County, Florida",Taxicab,MOE,17.2
+"Clay County, Florida",Motorcycle,Estimate,16.3
+"Clay County, Florida",Motorcycle,MOE,7.7
+"Clay County, Florida",Other method,Estimate,44.2
+"Clay County, Florida",Other method,MOE,19.7
+"Clay County, Florida",Worked at home,Estimate,0
+"Clay County, Florida",Worked at home,MOE,0
+"Collier County, Florida","Total, means of transportation",Estimate,24.2
+"Collier County, Florida","Total, means of transportation",MOE,0.5
+"Collier County, Florida","Car, truck, or van -- Drove alone",Estimate,23.3
+"Collier County, Florida","Car, truck, or van -- Drove alone",MOE,0.5
+"Collier County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,23.9
+"Collier County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,1.1
+"Collier County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,29.8
+"Collier County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,3.4
+"Collier County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,30.5
+"Collier County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,3.6
+"Collier County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,33.5
+"Collier County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,12.8
+"Collier County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,44.6
+"Collier County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,15.6
+"Collier County, Florida",Bus or trolley bus,Estimate,37.2
+"Collier County, Florida",Bus or trolley bus,MOE,5.5
+"Collier County, Florida",Streetcar or trolley car,Estimate,-
+"Collier County, Florida",Streetcar or trolley car,MOE,**
+"Collier County, Florida",Subway or elevated,Estimate,33.7
+"Collier County, Florida",Subway or elevated,MOE,9.6
+"Collier County, Florida",Railroad,Estimate,76.7
+"Collier County, Florida",Railroad,MOE,27.5
+"Collier County, Florida",Ferryboat,Estimate,-
+"Collier County, Florida",Ferryboat,MOE,**
+"Collier County, Florida",Bicycle,Estimate,19
+"Collier County, Florida",Bicycle,MOE,3
+"Collier County, Florida",Walked,Estimate,10.6
+"Collier County, Florida",Walked,MOE,1.6
+"Collier County, Florida",Taxicab,Estimate,19.2
+"Collier County, Florida",Taxicab,MOE,2.5
+"Collier County, Florida",Motorcycle,Estimate,18.8
+"Collier County, Florida",Motorcycle,MOE,3
+"Collier County, Florida",Other method,Estimate,56.3
+"Collier County, Florida",Other method,MOE,12.5
+"Collier County, Florida",Worked at home,Estimate,0
+"Collier County, Florida",Worked at home,MOE,0
+"Columbia County, Florida","Total, means of transportation",Estimate,24.1
+"Columbia County, Florida","Total, means of transportation",MOE,1.1
+"Columbia County, Florida","Car, truck, or van -- Drove alone",Estimate,23.5
+"Columbia County, Florida","Car, truck, or van -- Drove alone",MOE,1.1
+"Columbia County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,27.1
+"Columbia County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,4.2
+"Columbia County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,31.5
+"Columbia County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,17
+"Columbia County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,32.9
+"Columbia County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,37.4
+"Columbia County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,11.6
+"Columbia County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,8.8
+"Columbia County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,86.2
+"Columbia County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,78.9
+"Columbia County, Florida",Bus or trolley bus,Estimate,53
+"Columbia County, Florida",Bus or trolley bus,MOE,109.7
+"Columbia County, Florida",Streetcar or trolley car,Estimate,-
+"Columbia County, Florida",Streetcar or trolley car,MOE,**
+"Columbia County, Florida",Subway or elevated,Estimate,79
+"Columbia County, Florida",Subway or elevated,MOE,49.6
+"Columbia County, Florida",Railroad,Estimate,-
+"Columbia County, Florida",Railroad,MOE,**
+"Columbia County, Florida",Ferryboat,Estimate,-
+"Columbia County, Florida",Ferryboat,MOE,**
+"Columbia County, Florida",Bicycle,Estimate,19.7
+"Columbia County, Florida",Bicycle,MOE,6.3
+"Columbia County, Florida",Walked,Estimate,33.6
+"Columbia County, Florida",Walked,MOE,41.7
+"Columbia County, Florida",Taxicab,Estimate,-
+"Columbia County, Florida",Taxicab,MOE,**
+"Columbia County, Florida",Motorcycle,Estimate,23.5
+"Columbia County, Florida",Motorcycle,MOE,14.9
+"Columbia County, Florida",Other method,Estimate,33
+"Columbia County, Florida",Other method,MOE,38.8
+"Columbia County, Florida",Worked at home,Estimate,0
+"Columbia County, Florida",Worked at home,MOE,0
+"DeSoto County, Florida","Total, means of transportation",Estimate,25.1
+"DeSoto County, Florida","Total, means of transportation",MOE,2.1
+"DeSoto County, Florida","Car, truck, or van -- Drove alone",Estimate,23.3
+"DeSoto County, Florida","Car, truck, or van -- Drove alone",MOE,1.7
+"DeSoto County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,29.2
+"DeSoto County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,6.7
+"DeSoto County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,32.9
+"DeSoto County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,7.8
+"DeSoto County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,40.6
+"DeSoto County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,13.6
+"DeSoto County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,25.3
+"DeSoto County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,4.8
+"DeSoto County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,47.4
+"DeSoto County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,18.2
+"DeSoto County, Florida",Bus or trolley bus,Estimate,28.8
+"DeSoto County, Florida",Bus or trolley bus,MOE,2.5
+"DeSoto County, Florida",Streetcar or trolley car,Estimate,-
+"DeSoto County, Florida",Streetcar or trolley car,MOE,**
+"DeSoto County, Florida",Subway or elevated,Estimate,-
+"DeSoto County, Florida",Subway or elevated,MOE,**
+"DeSoto County, Florida",Railroad,Estimate,-
+"DeSoto County, Florida",Railroad,MOE,**
+"DeSoto County, Florida",Ferryboat,Estimate,-
+"DeSoto County, Florida",Ferryboat,MOE,**
+"DeSoto County, Florida",Bicycle,Estimate,12.7
+"DeSoto County, Florida",Bicycle,MOE,4.1
+"DeSoto County, Florida",Walked,Estimate,7.8
+"DeSoto County, Florida",Walked,MOE,4
+"DeSoto County, Florida",Taxicab,Estimate,13.5
+"DeSoto County, Florida",Taxicab,MOE,8
+"DeSoto County, Florida",Motorcycle,Estimate,8.3
+"DeSoto County, Florida",Motorcycle,MOE,4.9
+"DeSoto County, Florida",Other method,Estimate,13.7
+"DeSoto County, Florida",Other method,MOE,9.1
+"DeSoto County, Florida",Worked at home,Estimate,0
+"DeSoto County, Florida",Worked at home,MOE,0
+"Dixie County, Florida","Total, means of transportation",Estimate,27.5
+"Dixie County, Florida","Total, means of transportation",MOE,3.2
+"Dixie County, Florida","Car, truck, or van -- Drove alone",Estimate,27.2
+"Dixie County, Florida","Car, truck, or van -- Drove alone",MOE,3.4
+"Dixie County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,32.6
+"Dixie County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,11.6
+"Dixie County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,22.6
+"Dixie County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,6.3
+"Dixie County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,24.6
+"Dixie County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,10.9
+"Dixie County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,-
+"Dixie County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,**
+"Dixie County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,-
+"Dixie County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,**
+"Dixie County, Florida",Bus or trolley bus,Estimate,3.8
+"Dixie County, Florida",Bus or trolley bus,MOE,3.3
+"Dixie County, Florida",Streetcar or trolley car,Estimate,-
+"Dixie County, Florida",Streetcar or trolley car,MOE,**
+"Dixie County, Florida",Subway or elevated,Estimate,-
+"Dixie County, Florida",Subway or elevated,MOE,**
+"Dixie County, Florida",Railroad,Estimate,-
+"Dixie County, Florida",Railroad,MOE,**
+"Dixie County, Florida",Ferryboat,Estimate,-
+"Dixie County, Florida",Ferryboat,MOE,**
+"Dixie County, Florida",Bicycle,Estimate,45
+"Dixie County, Florida",Bicycle,MOE,59.9
+"Dixie County, Florida",Walked,Estimate,4.4
+"Dixie County, Florida",Walked,MOE,2.8
+"Dixie County, Florida",Taxicab,Estimate,-
+"Dixie County, Florida",Taxicab,MOE,**
+"Dixie County, Florida",Motorcycle,Estimate,-
+"Dixie County, Florida",Motorcycle,MOE,**
+"Dixie County, Florida",Other method,Estimate,28.4
+"Dixie County, Florida",Other method,MOE,4.6
+"Dixie County, Florida",Worked at home,Estimate,0
+"Dixie County, Florida",Worked at home,MOE,0
+"Duval County, Florida","Total, means of transportation",Estimate,24.3
+"Duval County, Florida","Total, means of transportation",MOE,0.3
+"Duval County, Florida","Car, truck, or van -- Drove alone",Estimate,23.5
+"Duval County, Florida","Car, truck, or van -- Drove alone",MOE,0.3
+"Duval County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,23.1
+"Duval County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,0.8
+"Duval County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,26.2
+"Duval County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,2.4
+"Duval County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,32
+"Duval County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,5.1
+"Duval County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,30.7
+"Duval County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,7.1
+"Duval County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,26.8
+"Duval County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,8.6
+"Duval County, Florida",Bus or trolley bus,Estimate,52.4
+"Duval County, Florida",Bus or trolley bus,MOE,4.2
+"Duval County, Florida",Streetcar or trolley car,Estimate,-
+"Duval County, Florida",Streetcar or trolley car,MOE,**
+"Duval County, Florida",Subway or elevated,Estimate,12.8
+"Duval County, Florida",Subway or elevated,MOE,3.6
+"Duval County, Florida",Railroad,Estimate,-
+"Duval County, Florida",Railroad,MOE,**
+"Duval County, Florida",Ferryboat,Estimate,106.7
+"Duval County, Florida",Ferryboat,MOE,114.9
+"Duval County, Florida",Bicycle,Estimate,23.7
+"Duval County, Florida",Bicycle,MOE,2.7
+"Duval County, Florida",Walked,Estimate,14.8
+"Duval County, Florida",Walked,MOE,3.1
+"Duval County, Florida",Taxicab,Estimate,15.2
+"Duval County, Florida",Taxicab,MOE,2.1
+"Duval County, Florida",Motorcycle,Estimate,19.9
+"Duval County, Florida",Motorcycle,MOE,3.3
+"Duval County, Florida",Other method,Estimate,48.6
+"Duval County, Florida",Other method,MOE,6.4
+"Duval County, Florida",Worked at home,Estimate,0
+"Duval County, Florida",Worked at home,MOE,0
+"Escambia County, Florida","Total, means of transportation",Estimate,21.8
+"Escambia County, Florida","Total, means of transportation",MOE,0.4
+"Escambia County, Florida","Car, truck, or van -- Drove alone",Estimate,21.2
+"Escambia County, Florida","Car, truck, or van -- Drove alone",MOE,0.4
+"Escambia County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,24.4
+"Escambia County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,1.9
+"Escambia County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,26.2
+"Escambia County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,2.8
+"Escambia County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,38.7
+"Escambia County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,13.1
+"Escambia County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,20.3
+"Escambia County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,6.2
+"Escambia County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,29.8
+"Escambia County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,14.7
+"Escambia County, Florida",Bus or trolley bus,Estimate,49.3
+"Escambia County, Florida",Bus or trolley bus,MOE,9.2
+"Escambia County, Florida",Streetcar or trolley car,Estimate,44.3
+"Escambia County, Florida",Streetcar or trolley car,MOE,32
+"Escambia County, Florida",Subway or elevated,Estimate,33.7
+"Escambia County, Florida",Subway or elevated,MOE,28.4
+"Escambia County, Florida",Railroad,Estimate,-
+"Escambia County, Florida",Railroad,MOE,**
+"Escambia County, Florida",Ferryboat,Estimate,23.5
+"Escambia County, Florida",Ferryboat,MOE,49.2
+"Escambia County, Florida",Bicycle,Estimate,26.5
+"Escambia County, Florida",Bicycle,MOE,6.8
+"Escambia County, Florida",Walked,Estimate,9.3
+"Escambia County, Florida",Walked,MOE,1.1
+"Escambia County, Florida",Taxicab,Estimate,15.3
+"Escambia County, Florida",Taxicab,MOE,2.5
+"Escambia County, Florida",Motorcycle,Estimate,19.3
+"Escambia County, Florida",Motorcycle,MOE,1.9
+"Escambia County, Florida",Other method,Estimate,49
+"Escambia County, Florida",Other method,MOE,17.5
+"Escambia County, Florida",Worked at home,Estimate,0
+"Escambia County, Florida",Worked at home,MOE,0
+"Flagler County, Florida","Total, means of transportation",Estimate,26.2
+"Flagler County, Florida","Total, means of transportation",MOE,1.1
+"Flagler County, Florida","Car, truck, or van -- Drove alone",Estimate,25.4
+"Flagler County, Florida","Car, truck, or van -- Drove alone",MOE,1.1
+"Flagler County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,30.3
+"Flagler County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,5
+"Flagler County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,42.2
+"Flagler County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,23.7
+"Flagler County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,18.9
+"Flagler County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,9.4
+"Flagler County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,19.2
+"Flagler County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,6.3
+"Flagler County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,41.8
+"Flagler County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,58.1
+"Flagler County, Florida",Bus or trolley bus,Estimate,39.6
+"Flagler County, Florida",Bus or trolley bus,MOE,10.4
+"Flagler County, Florida",Streetcar or trolley car,Estimate,24.4
+"Flagler County, Florida",Streetcar or trolley car,MOE,6.3
+"Flagler County, Florida",Subway or elevated,Estimate,-
+"Flagler County, Florida",Subway or elevated,MOE,**
+"Flagler County, Florida",Railroad,Estimate,130.7
+"Flagler County, Florida",Railroad,MOE,76
+"Flagler County, Florida",Ferryboat,Estimate,-
+"Flagler County, Florida",Ferryboat,MOE,**
+"Flagler County, Florida",Bicycle,Estimate,12.6
+"Flagler County, Florida",Bicycle,MOE,5.7
+"Flagler County, Florida",Walked,Estimate,26.9
+"Flagler County, Florida",Walked,MOE,24.2
+"Flagler County, Florida",Taxicab,Estimate,28
+"Flagler County, Florida",Taxicab,MOE,22.9
+"Flagler County, Florida",Motorcycle,Estimate,28.1
+"Flagler County, Florida",Motorcycle,MOE,8.4
+"Flagler County, Florida",Other method,Estimate,62.1
+"Flagler County, Florida",Other method,MOE,28.1
+"Flagler County, Florida",Worked at home,Estimate,0
+"Flagler County, Florida",Worked at home,MOE,0
+"Franklin County, Florida","Total, means of transportation",Estimate,19.8
+"Franklin County, Florida","Total, means of transportation",MOE,3.4
+"Franklin County, Florida","Car, truck, or van -- Drove alone",Estimate,18.8
+"Franklin County, Florida","Car, truck, or van -- Drove alone",MOE,3
+"Franklin County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,19.4
+"Franklin County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,4.6
+"Franklin County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,11.3
+"Franklin County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,3.3
+"Franklin County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,-
+"Franklin County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,**
+"Franklin County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,-
+"Franklin County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,**
+"Franklin County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,-
+"Franklin County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,**
+"Franklin County, Florida",Bus or trolley bus,Estimate,11.7
+"Franklin County, Florida",Bus or trolley bus,MOE,10.7
+"Franklin County, Florida",Streetcar or trolley car,Estimate,-
+"Franklin County, Florida",Streetcar or trolley car,MOE,**
+"Franklin County, Florida",Subway or elevated,Estimate,-
+"Franklin County, Florida",Subway or elevated,MOE,**
+"Franklin County, Florida",Railroad,Estimate,-
+"Franklin County, Florida",Railroad,MOE,**
+"Franklin County, Florida",Ferryboat,Estimate,-
+"Franklin County, Florida",Ferryboat,MOE,**
+"Franklin County, Florida",Bicycle,Estimate,15.3
+"Franklin County, Florida",Bicycle,MOE,7.4
+"Franklin County, Florida",Walked,Estimate,16.1
+"Franklin County, Florida",Walked,MOE,7.6
+"Franklin County, Florida",Taxicab,Estimate,17.5
+"Franklin County, Florida",Taxicab,MOE,52.1
+"Franklin County, Florida",Motorcycle,Estimate,-
+"Franklin County, Florida",Motorcycle,MOE,**
+"Franklin County, Florida",Other method,Estimate,62.7
+"Franklin County, Florida",Other method,MOE,58.7
+"Franklin County, Florida",Worked at home,Estimate,0
+"Franklin County, Florida",Worked at home,MOE,0
+"Gadsden County, Florida","Total, means of transportation",Estimate,29.4
+"Gadsden County, Florida","Total, means of transportation",MOE,1.3
+"Gadsden County, Florida","Car, truck, or van -- Drove alone",Estimate,29
+"Gadsden County, Florida","Car, truck, or van -- Drove alone",MOE,1.2
+"Gadsden County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,27
+"Gadsden County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,3.2
+"Gadsden County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,25.3
+"Gadsden County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,7.3
+"Gadsden County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,37.2
+"Gadsden County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,5.6
+"Gadsden County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,82
+"Gadsden County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,27.8
+"Gadsden County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,25.3
+"Gadsden County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,27.1
+"Gadsden County, Florida",Bus or trolley bus,Estimate,55.4
+"Gadsden County, Florida",Bus or trolley bus,MOE,31.2
+"Gadsden County, Florida",Streetcar or trolley car,Estimate,-
+"Gadsden County, Florida",Streetcar or trolley car,MOE,**
+"Gadsden County, Florida",Subway or elevated,Estimate,-
+"Gadsden County, Florida",Subway or elevated,MOE,**
+"Gadsden County, Florida",Railroad,Estimate,-
+"Gadsden County, Florida",Railroad,MOE,**
+"Gadsden County, Florida",Ferryboat,Estimate,-
+"Gadsden County, Florida",Ferryboat,MOE,**
+"Gadsden County, Florida",Bicycle,Estimate,-
+"Gadsden County, Florida",Bicycle,MOE,**
+"Gadsden County, Florida",Walked,Estimate,13.5
+"Gadsden County, Florida",Walked,MOE,5.8
+"Gadsden County, Florida",Taxicab,Estimate,-
+"Gadsden County, Florida",Taxicab,MOE,**
+"Gadsden County, Florida",Motorcycle,Estimate,20.8
+"Gadsden County, Florida",Motorcycle,MOE,16.3
+"Gadsden County, Florida",Other method,Estimate,45.3
+"Gadsden County, Florida",Other method,MOE,17
+"Gadsden County, Florida",Worked at home,Estimate,0
+"Gadsden County, Florida",Worked at home,MOE,0
+"Gilchrist County, Florida","Total, means of transportation",Estimate,31.2
+"Gilchrist County, Florida","Total, means of transportation",MOE,1.8
+"Gilchrist County, Florida","Car, truck, or van -- Drove alone",Estimate,31
+"Gilchrist County, Florida","Car, truck, or van -- Drove alone",MOE,1.8
+"Gilchrist County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,34.1
+"Gilchrist County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,7
+"Gilchrist County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,28.8
+"Gilchrist County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,11
+"Gilchrist County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,19
+"Gilchrist County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,12.9
+"Gilchrist County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,21.3
+"Gilchrist County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,12.3
+"Gilchrist County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,-
+"Gilchrist County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,**
+"Gilchrist County, Florida",Bus or trolley bus,Estimate,16.1
+"Gilchrist County, Florida",Bus or trolley bus,MOE,4.3
+"Gilchrist County, Florida",Streetcar or trolley car,Estimate,-
+"Gilchrist County, Florida",Streetcar or trolley car,MOE,**
+"Gilchrist County, Florida",Subway or elevated,Estimate,-
+"Gilchrist County, Florida",Subway or elevated,MOE,**
+"Gilchrist County, Florida",Railroad,Estimate,-
+"Gilchrist County, Florida",Railroad,MOE,**
+"Gilchrist County, Florida",Ferryboat,Estimate,-
+"Gilchrist County, Florida",Ferryboat,MOE,**
+"Gilchrist County, Florida",Bicycle,Estimate,7.5
+"Gilchrist County, Florida",Bicycle,MOE,9.4
+"Gilchrist County, Florida",Walked,Estimate,8.3
+"Gilchrist County, Florida",Walked,MOE,3
+"Gilchrist County, Florida",Taxicab,Estimate,-
+"Gilchrist County, Florida",Taxicab,MOE,**
+"Gilchrist County, Florida",Motorcycle,Estimate,131.6
+"Gilchrist County, Florida",Motorcycle,MOE,88.9
+"Gilchrist County, Florida",Other method,Estimate,45.3
+"Gilchrist County, Florida",Other method,MOE,46.7
+"Gilchrist County, Florida",Worked at home,Estimate,0
+"Gilchrist County, Florida",Worked at home,MOE,0
+"Glades County, Florida","Total, means of transportation",Estimate,23
+"Glades County, Florida","Total, means of transportation",MOE,2.7
+"Glades County, Florida","Car, truck, or van -- Drove alone",Estimate,24.3
+"Glades County, Florida","Car, truck, or van -- Drove alone",MOE,3
+"Glades County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,24.3
+"Glades County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,4.7
+"Glades County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,27.9
+"Glades County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,7.6
+"Glades County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,35
+"Glades County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,41.8
+"Glades County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,-
+"Glades County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,**
+"Glades County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,37.5
+"Glades County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,51.9
+"Glades County, Florida",Bus or trolley bus,Estimate,25
+"Glades County, Florida",Bus or trolley bus,MOE,35.9
+"Glades County, Florida",Streetcar or trolley car,Estimate,-
+"Glades County, Florida",Streetcar or trolley car,MOE,**
+"Glades County, Florida",Subway or elevated,Estimate,-
+"Glades County, Florida",Subway or elevated,MOE,**
+"Glades County, Florida",Railroad,Estimate,-
+"Glades County, Florida",Railroad,MOE,**
+"Glades County, Florida",Ferryboat,Estimate,-
+"Glades County, Florida",Ferryboat,MOE,**
+"Glades County, Florida",Bicycle,Estimate,3
+"Glades County, Florida",Bicycle,MOE,5.9
+"Glades County, Florida",Walked,Estimate,1.4
+"Glades County, Florida",Walked,MOE,0.7
+"Glades County, Florida",Taxicab,Estimate,-
+"Glades County, Florida",Taxicab,MOE,**
+"Glades County, Florida",Motorcycle,Estimate,-
+"Glades County, Florida",Motorcycle,MOE,**
+"Glades County, Florida",Other method,Estimate,17.8
+"Glades County, Florida",Other method,MOE,19.9
+"Glades County, Florida",Worked at home,Estimate,0
+"Glades County, Florida",Worked at home,MOE,0
+"Gulf County, Florida","Total, means of transportation",Estimate,22.1
+"Gulf County, Florida","Total, means of transportation",MOE,2.4
+"Gulf County, Florida","Car, truck, or van -- Drove alone",Estimate,22.1
+"Gulf County, Florida","Car, truck, or van -- Drove alone",MOE,2.8
+"Gulf County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,21.8
+"Gulf County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,6.8
+"Gulf County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,45.4
+"Gulf County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,29.4
+"Gulf County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,6.7
+"Gulf County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,6.3
+"Gulf County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,-
+"Gulf County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,**
+"Gulf County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,9.8
+"Gulf County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,5.2
+"Gulf County, Florida",Bus or trolley bus,Estimate,22.5
+"Gulf County, Florida",Bus or trolley bus,MOE,57.1
+"Gulf County, Florida",Streetcar or trolley car,Estimate,-
+"Gulf County, Florida",Streetcar or trolley car,MOE,**
+"Gulf County, Florida",Subway or elevated,Estimate,-
+"Gulf County, Florida",Subway or elevated,MOE,**
+"Gulf County, Florida",Railroad,Estimate,-
+"Gulf County, Florida",Railroad,MOE,**
+"Gulf County, Florida",Ferryboat,Estimate,-
+"Gulf County, Florida",Ferryboat,MOE,**
+"Gulf County, Florida",Bicycle,Estimate,18
+"Gulf County, Florida",Bicycle,MOE,11.3
+"Gulf County, Florida",Walked,Estimate,9.2
+"Gulf County, Florida",Walked,MOE,4.9
+"Gulf County, Florida",Taxicab,Estimate,21.6
+"Gulf County, Florida",Taxicab,MOE,8.6
+"Gulf County, Florida",Motorcycle,Estimate,7.5
+"Gulf County, Florida",Motorcycle,MOE,11.3
+"Gulf County, Florida",Other method,Estimate,27.7
+"Gulf County, Florida",Other method,MOE,31.3
+"Gulf County, Florida",Worked at home,Estimate,0
+"Gulf County, Florida",Worked at home,MOE,0
+"Hamilton County, Florida","Total, means of transportation",Estimate,20.4
+"Hamilton County, Florida","Total, means of transportation",MOE,1.5
+"Hamilton County, Florida","Car, truck, or van -- Drove alone",Estimate,21.1
+"Hamilton County, Florida","Car, truck, or van -- Drove alone",MOE,1.6
+"Hamilton County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,18.2
+"Hamilton County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,6.6
+"Hamilton County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,29.1
+"Hamilton County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,5.6
+"Hamilton County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,24
+"Hamilton County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,16.6
+"Hamilton County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,-
+"Hamilton County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,**
+"Hamilton County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,26.3
+"Hamilton County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,33.8
+"Hamilton County, Florida",Bus or trolley bus,Estimate,3.5
+"Hamilton County, Florida",Bus or trolley bus,MOE,5.9
+"Hamilton County, Florida",Streetcar or trolley car,Estimate,-
+"Hamilton County, Florida",Streetcar or trolley car,MOE,**
+"Hamilton County, Florida",Subway or elevated,Estimate,-
+"Hamilton County, Florida",Subway or elevated,MOE,**
+"Hamilton County, Florida",Railroad,Estimate,-
+"Hamilton County, Florida",Railroad,MOE,**
+"Hamilton County, Florida",Ferryboat,Estimate,-
+"Hamilton County, Florida",Ferryboat,MOE,**
+"Hamilton County, Florida",Bicycle,Estimate,15
+"Hamilton County, Florida",Bicycle,MOE,20.2
+"Hamilton County, Florida",Walked,Estimate,3.1
+"Hamilton County, Florida",Walked,MOE,4.4
+"Hamilton County, Florida",Taxicab,Estimate,-
+"Hamilton County, Florida",Taxicab,MOE,**
+"Hamilton County, Florida",Motorcycle,Estimate,16
+"Hamilton County, Florida",Motorcycle,MOE,11.4
+"Hamilton County, Florida",Other method,Estimate,4.9
+"Hamilton County, Florida",Other method,MOE,6.7
+"Hamilton County, Florida",Worked at home,Estimate,0
+"Hamilton County, Florida",Worked at home,MOE,0
+"Hardee County, Florida","Total, means of transportation",Estimate,24.7
+"Hardee County, Florida","Total, means of transportation",MOE,2
+"Hardee County, Florida","Car, truck, or van -- Drove alone",Estimate,23.7
+"Hardee County, Florida","Car, truck, or van -- Drove alone",MOE,2.1
+"Hardee County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,24.7
+"Hardee County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,4.1
+"Hardee County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,43.6
+"Hardee County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,15.8
+"Hardee County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,31.1
+"Hardee County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,4.6
+"Hardee County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,43
+"Hardee County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,32.8
+"Hardee County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,43
+"Hardee County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,22.5
+"Hardee County, Florida",Bus or trolley bus,Estimate,69
+"Hardee County, Florida",Bus or trolley bus,MOE,28.5
+"Hardee County, Florida",Streetcar or trolley car,Estimate,32
+"Hardee County, Florida",Streetcar or trolley car,MOE,16.8
+"Hardee County, Florida",Subway or elevated,Estimate,-
+"Hardee County, Florida",Subway or elevated,MOE,**
+"Hardee County, Florida",Railroad,Estimate,9.6
+"Hardee County, Florida",Railroad,MOE,2.6
+"Hardee County, Florida",Ferryboat,Estimate,-
+"Hardee County, Florida",Ferryboat,MOE,**
+"Hardee County, Florida",Bicycle,Estimate,4
+"Hardee County, Florida",Bicycle,MOE,1.4
+"Hardee County, Florida",Walked,Estimate,18.4
+"Hardee County, Florida",Walked,MOE,12
+"Hardee County, Florida",Taxicab,Estimate,9.3
+"Hardee County, Florida",Taxicab,MOE,8.8
+"Hardee County, Florida",Motorcycle,Estimate,-
+"Hardee County, Florida",Motorcycle,MOE,**
+"Hardee County, Florida",Other method,Estimate,18.9
+"Hardee County, Florida",Other method,MOE,3.2
+"Hardee County, Florida",Worked at home,Estimate,0
+"Hardee County, Florida",Worked at home,MOE,0
+"Hendry County, Florida","Total, means of transportation",Estimate,28.7
+"Hendry County, Florida","Total, means of transportation",MOE,2.9
+"Hendry County, Florida","Car, truck, or van -- Drove alone",Estimate,25.7
+"Hendry County, Florida","Car, truck, or van -- Drove alone",MOE,2.9
+"Hendry County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,21.1
+"Hendry County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,5.4
+"Hendry County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,50.2
+"Hendry County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,17.2
+"Hendry County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,47.4
+"Hendry County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,34.6
+"Hendry County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,43.5
+"Hendry County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,15.5
+"Hendry County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,58.5
+"Hendry County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,28.7
+"Hendry County, Florida",Bus or trolley bus,Estimate,37.4
+"Hendry County, Florida",Bus or trolley bus,MOE,7.6
+"Hendry County, Florida",Streetcar or trolley car,Estimate,-
+"Hendry County, Florida",Streetcar or trolley car,MOE,**
+"Hendry County, Florida",Subway or elevated,Estimate,-
+"Hendry County, Florida",Subway or elevated,MOE,**
+"Hendry County, Florida",Railroad,Estimate,-
+"Hendry County, Florida",Railroad,MOE,**
+"Hendry County, Florida",Ferryboat,Estimate,-
+"Hendry County, Florida",Ferryboat,MOE,**
+"Hendry County, Florida",Bicycle,Estimate,20.1
+"Hendry County, Florida",Bicycle,MOE,2
+"Hendry County, Florida",Walked,Estimate,30.9
+"Hendry County, Florida",Walked,MOE,12.9
+"Hendry County, Florida",Taxicab,Estimate,9.6
+"Hendry County, Florida",Taxicab,MOE,1.5
+"Hendry County, Florida",Motorcycle,Estimate,16.7
+"Hendry County, Florida",Motorcycle,MOE,11
+"Hendry County, Florida",Other method,Estimate,27.7
+"Hendry County, Florida",Other method,MOE,24.4
+"Hendry County, Florida",Worked at home,Estimate,0
+"Hendry County, Florida",Worked at home,MOE,0
+"Hernando County, Florida","Total, means of transportation",Estimate,29
+"Hernando County, Florida","Total, means of transportation",MOE,1
+"Hernando County, Florida","Car, truck, or van -- Drove alone",Estimate,29.2
+"Hernando County, Florida","Car, truck, or van -- Drove alone",MOE,1
+"Hernando County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,29.5
+"Hernando County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,3
+"Hernando County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,34.7
+"Hernando County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,9.3
+"Hernando County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,22.5
+"Hernando County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,7.8
+"Hernando County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,19.7
+"Hernando County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,16.7
+"Hernando County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,41.7
+"Hernando County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,16
+"Hernando County, Florida",Bus or trolley bus,Estimate,44.4
+"Hernando County, Florida",Bus or trolley bus,MOE,22.2
+"Hernando County, Florida",Streetcar or trolley car,Estimate,-
+"Hernando County, Florida",Streetcar or trolley car,MOE,**
+"Hernando County, Florida",Subway or elevated,Estimate,-
+"Hernando County, Florida",Subway or elevated,MOE,**
+"Hernando County, Florida",Railroad,Estimate,-
+"Hernando County, Florida",Railroad,MOE,**
+"Hernando County, Florida",Ferryboat,Estimate,-
+"Hernando County, Florida",Ferryboat,MOE,**
+"Hernando County, Florida",Bicycle,Estimate,27.6
+"Hernando County, Florida",Bicycle,MOE,12.7
+"Hernando County, Florida",Walked,Estimate,11.1
+"Hernando County, Florida",Walked,MOE,2.9
+"Hernando County, Florida",Taxicab,Estimate,-
+"Hernando County, Florida",Taxicab,MOE,**
+"Hernando County, Florida",Motorcycle,Estimate,48.3
+"Hernando County, Florida",Motorcycle,MOE,28.6
+"Hernando County, Florida",Other method,Estimate,24
+"Hernando County, Florida",Other method,MOE,8.2
+"Hernando County, Florida",Worked at home,Estimate,0
+"Hernando County, Florida",Worked at home,MOE,0
+"Highlands County, Florida","Total, means of transportation",Estimate,20.5
+"Highlands County, Florida","Total, means of transportation",MOE,0.8
+"Highlands County, Florida","Car, truck, or van -- Drove alone",Estimate,20.2
+"Highlands County, Florida","Car, truck, or van -- Drove alone",MOE,0.9
+"Highlands County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,19.4
+"Highlands County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,2.9
+"Highlands County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,32.9
+"Highlands County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,13.8
+"Highlands County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,37.8
+"Highlands County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,21.4
+"Highlands County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,46.8
+"Highlands County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,74.2
+"Highlands County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,30.3
+"Highlands County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,46.7
+"Highlands County, Florida",Bus or trolley bus,Estimate,27.1
+"Highlands County, Florida",Bus or trolley bus,MOE,4.2
+"Highlands County, Florida",Streetcar or trolley car,Estimate,-
+"Highlands County, Florida",Streetcar or trolley car,MOE,**
+"Highlands County, Florida",Subway or elevated,Estimate,36
+"Highlands County, Florida",Subway or elevated,MOE,25.7
+"Highlands County, Florida",Railroad,Estimate,53.8
+"Highlands County, Florida",Railroad,MOE,78.9
+"Highlands County, Florida",Ferryboat,Estimate,-
+"Highlands County, Florida",Ferryboat,MOE,**
+"Highlands County, Florida",Bicycle,Estimate,23.3
+"Highlands County, Florida",Bicycle,MOE,5.9
+"Highlands County, Florida",Walked,Estimate,13.4
+"Highlands County, Florida",Walked,MOE,3.9
+"Highlands County, Florida",Taxicab,Estimate,5.3
+"Highlands County, Florida",Taxicab,MOE,2.4
+"Highlands County, Florida",Motorcycle,Estimate,20.6
+"Highlands County, Florida",Motorcycle,MOE,5.1
+"Highlands County, Florida",Other method,Estimate,12.2
+"Highlands County, Florida",Other method,MOE,10
+"Highlands County, Florida",Worked at home,Estimate,0
+"Highlands County, Florida",Worked at home,MOE,0
+"Hillsborough County, Florida","Total, means of transportation",Estimate,26.8
+"Hillsborough County, Florida","Total, means of transportation",MOE,0.2
+"Hillsborough County, Florida","Car, truck, or van -- Drove alone",Estimate,26.6
+"Hillsborough County, Florida","Car, truck, or van -- Drove alone",MOE,0.2
+"Hillsborough County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,25.9
+"Hillsborough County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,0.9
+"Hillsborough County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,28
+"Hillsborough County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,2.2
+"Hillsborough County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,31.1
+"Hillsborough County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,3.7
+"Hillsborough County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,38.1
+"Hillsborough County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,7.4
+"Hillsborough County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,36.6
+"Hillsborough County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,8.9
+"Hillsborough County, Florida",Bus or trolley bus,Estimate,45.3
+"Hillsborough County, Florida",Bus or trolley bus,MOE,2.4
+"Hillsborough County, Florida",Streetcar or trolley car,Estimate,20.5
+"Hillsborough County, Florida",Streetcar or trolley car,MOE,18.5
+"Hillsborough County, Florida",Subway or elevated,Estimate,41.9
+"Hillsborough County, Florida",Subway or elevated,MOE,18.9
+"Hillsborough County, Florida",Railroad,Estimate,129.3
+"Hillsborough County, Florida",Railroad,MOE,98
+"Hillsborough County, Florida",Ferryboat,Estimate,88.5
+"Hillsborough County, Florida",Ferryboat,MOE,12
+"Hillsborough County, Florida",Bicycle,Estimate,23
+"Hillsborough County, Florida",Bicycle,MOE,2
+"Hillsborough County, Florida",Walked,Estimate,11.6
+"Hillsborough County, Florida",Walked,MOE,1.1
+"Hillsborough County, Florida",Taxicab,Estimate,21.1
+"Hillsborough County, Florida",Taxicab,MOE,8.4
+"Hillsborough County, Florida",Motorcycle,Estimate,27.1
+"Hillsborough County, Florida",Motorcycle,MOE,3
+"Hillsborough County, Florida",Other method,Estimate,41.6
+"Hillsborough County, Florida",Other method,MOE,5.3
+"Hillsborough County, Florida",Worked at home,Estimate,0
+"Hillsborough County, Florida",Worked at home,MOE,0
+"Holmes County, Florida","Total, means of transportation",Estimate,28.7
+"Holmes County, Florida","Total, means of transportation",MOE,1.8
+"Holmes County, Florida","Car, truck, or van -- Drove alone",Estimate,29.2
+"Holmes County, Florida","Car, truck, or van -- Drove alone",MOE,1.9
+"Holmes County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,28.5
+"Holmes County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,7.3
+"Holmes County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,37.6
+"Holmes County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,29.6
+"Holmes County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,34
+"Holmes County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,22.7
+"Holmes County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,95
+"Holmes County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,156.1
+"Holmes County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,55
+"Holmes County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,140.2
+"Holmes County, Florida",Bus or trolley bus,Estimate,5
+"Holmes County, Florida",Bus or trolley bus,MOE,3.6
+"Holmes County, Florida",Streetcar or trolley car,Estimate,-
+"Holmes County, Florida",Streetcar or trolley car,MOE,**
+"Holmes County, Florida",Subway or elevated,Estimate,-
+"Holmes County, Florida",Subway or elevated,MOE,**
+"Holmes County, Florida",Railroad,Estimate,-
+"Holmes County, Florida",Railroad,MOE,**
+"Holmes County, Florida",Ferryboat,Estimate,-
+"Holmes County, Florida",Ferryboat,MOE,**
+"Holmes County, Florida",Bicycle,Estimate,30
+"Holmes County, Florida",Bicycle,MOE,39.4
+"Holmes County, Florida",Walked,Estimate,5.4
+"Holmes County, Florida",Walked,MOE,2.7
+"Holmes County, Florida",Taxicab,Estimate,-
+"Holmes County, Florida",Taxicab,MOE,**
+"Holmes County, Florida",Motorcycle,Estimate,20
+"Holmes County, Florida",Motorcycle,MOE,28.3
+"Holmes County, Florida",Other method,Estimate,6.5
+"Holmes County, Florida",Other method,MOE,2.2
+"Holmes County, Florida",Worked at home,Estimate,0
+"Holmes County, Florida",Worked at home,MOE,0
+"Indian River County, Florida","Total, means of transportation",Estimate,22.1
+"Indian River County, Florida","Total, means of transportation",MOE,0.8
+"Indian River County, Florida","Car, truck, or van -- Drove alone",Estimate,21.5
+"Indian River County, Florida","Car, truck, or van -- Drove alone",MOE,0.8
+"Indian River County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,25.3
+"Indian River County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,3.4
+"Indian River County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,25.4
+"Indian River County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,4.8
+"Indian River County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,34.6
+"Indian River County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,25.5
+"Indian River County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,26.6
+"Indian River County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,9.3
+"Indian River County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,23
+"Indian River County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,18.7
+"Indian River County, Florida",Bus or trolley bus,Estimate,13.3
+"Indian River County, Florida",Bus or trolley bus,MOE,3.8
+"Indian River County, Florida",Streetcar or trolley car,Estimate,-
+"Indian River County, Florida",Streetcar or trolley car,MOE,**
+"Indian River County, Florida",Subway or elevated,Estimate,-
+"Indian River County, Florida",Subway or elevated,MOE,**
+"Indian River County, Florida",Railroad,Estimate,85.9
+"Indian River County, Florida",Railroad,MOE,13.4
+"Indian River County, Florida",Ferryboat,Estimate,-
+"Indian River County, Florida",Ferryboat,MOE,**
+"Indian River County, Florida",Bicycle,Estimate,15.7
+"Indian River County, Florida",Bicycle,MOE,3
+"Indian River County, Florida",Walked,Estimate,5.6
+"Indian River County, Florida",Walked,MOE,2.3
+"Indian River County, Florida",Taxicab,Estimate,29.7
+"Indian River County, Florida",Taxicab,MOE,5.8
+"Indian River County, Florida",Motorcycle,Estimate,17.2
+"Indian River County, Florida",Motorcycle,MOE,4.6
+"Indian River County, Florida",Other method,Estimate,52
+"Indian River County, Florida",Other method,MOE,20.8
+"Indian River County, Florida",Worked at home,Estimate,0
+"Indian River County, Florida",Worked at home,MOE,0
+"Jackson County, Florida","Total, means of transportation",Estimate,22.2
+"Jackson County, Florida","Total, means of transportation",MOE,0.8
+"Jackson County, Florida","Car, truck, or van -- Drove alone",Estimate,22.4
+"Jackson County, Florida","Car, truck, or van -- Drove alone",MOE,0.9
+"Jackson County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,22.1
+"Jackson County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,3.1
+"Jackson County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,28.6
+"Jackson County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,8.7
+"Jackson County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,20.9
+"Jackson County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,10.2
+"Jackson County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,-
+"Jackson County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,**
+"Jackson County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,18
+"Jackson County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,27
+"Jackson County, Florida",Bus or trolley bus,Estimate,24.5
+"Jackson County, Florida",Bus or trolley bus,MOE,13.4
+"Jackson County, Florida",Streetcar or trolley car,Estimate,-
+"Jackson County, Florida",Streetcar or trolley car,MOE,**
+"Jackson County, Florida",Subway or elevated,Estimate,-
+"Jackson County, Florida",Subway or elevated,MOE,**
+"Jackson County, Florida",Railroad,Estimate,-
+"Jackson County, Florida",Railroad,MOE,**
+"Jackson County, Florida",Ferryboat,Estimate,-
+"Jackson County, Florida",Ferryboat,MOE,**
+"Jackson County, Florida",Bicycle,Estimate,11.5
+"Jackson County, Florida",Bicycle,MOE,10.3
+"Jackson County, Florida",Walked,Estimate,5.7
+"Jackson County, Florida",Walked,MOE,2.4
+"Jackson County, Florida",Taxicab,Estimate,-
+"Jackson County, Florida",Taxicab,MOE,**
+"Jackson County, Florida",Motorcycle,Estimate,17.8
+"Jackson County, Florida",Motorcycle,MOE,11.2
+"Jackson County, Florida",Other method,Estimate,19.7
+"Jackson County, Florida",Other method,MOE,11.1
+"Jackson County, Florida",Worked at home,Estimate,0
+"Jackson County, Florida",Worked at home,MOE,0
+"Jefferson County, Florida","Total, means of transportation",Estimate,28.6
+"Jefferson County, Florida","Total, means of transportation",MOE,1.2
+"Jefferson County, Florida","Car, truck, or van -- Drove alone",Estimate,28.7
+"Jefferson County, Florida","Car, truck, or van -- Drove alone",MOE,1.4
+"Jefferson County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,29.8
+"Jefferson County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,4
+"Jefferson County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,30.3
+"Jefferson County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,9
+"Jefferson County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,40.9
+"Jefferson County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,13.4
+"Jefferson County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,-
+"Jefferson County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,**
+"Jefferson County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,-
+"Jefferson County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,**
+"Jefferson County, Florida",Bus or trolley bus,Estimate,163.8
+"Jefferson County, Florida",Bus or trolley bus,MOE,214.4
+"Jefferson County, Florida",Streetcar or trolley car,Estimate,-
+"Jefferson County, Florida",Streetcar or trolley car,MOE,**
+"Jefferson County, Florida",Subway or elevated,Estimate,-
+"Jefferson County, Florida",Subway or elevated,MOE,**
+"Jefferson County, Florida",Railroad,Estimate,-
+"Jefferson County, Florida",Railroad,MOE,**
+"Jefferson County, Florida",Ferryboat,Estimate,-
+"Jefferson County, Florida",Ferryboat,MOE,**
+"Jefferson County, Florida",Bicycle,Estimate,-
+"Jefferson County, Florida",Bicycle,MOE,**
+"Jefferson County, Florida",Walked,Estimate,3.8
+"Jefferson County, Florida",Walked,MOE,2.6
+"Jefferson County, Florida",Taxicab,Estimate,-
+"Jefferson County, Florida",Taxicab,MOE,**
+"Jefferson County, Florida",Motorcycle,Estimate,-
+"Jefferson County, Florida",Motorcycle,MOE,**
+"Jefferson County, Florida",Other method,Estimate,-
+"Jefferson County, Florida",Other method,MOE,**
+"Jefferson County, Florida",Worked at home,Estimate,0
+"Jefferson County, Florida",Worked at home,MOE,0
+"Lafayette County, Florida","Total, means of transportation",Estimate,25.5
+"Lafayette County, Florida","Total, means of transportation",MOE,2.6
+"Lafayette County, Florida","Car, truck, or van -- Drove alone",Estimate,24.4
+"Lafayette County, Florida","Car, truck, or van -- Drove alone",MOE,2.7
+"Lafayette County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,27.7
+"Lafayette County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,5.7
+"Lafayette County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,33.9
+"Lafayette County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,6.9
+"Lafayette County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,60.5
+"Lafayette County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,31.2
+"Lafayette County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,-
+"Lafayette County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,**
+"Lafayette County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,38.8
+"Lafayette County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,54.3
+"Lafayette County, Florida",Bus or trolley bus,Estimate,68.8
+"Lafayette County, Florida",Bus or trolley bus,MOE,109.6
+"Lafayette County, Florida",Streetcar or trolley car,Estimate,-
+"Lafayette County, Florida",Streetcar or trolley car,MOE,**
+"Lafayette County, Florida",Subway or elevated,Estimate,-
+"Lafayette County, Florida",Subway or elevated,MOE,**
+"Lafayette County, Florida",Railroad,Estimate,-
+"Lafayette County, Florida",Railroad,MOE,**
+"Lafayette County, Florida",Ferryboat,Estimate,-
+"Lafayette County, Florida",Ferryboat,MOE,**
+"Lafayette County, Florida",Bicycle,Estimate,7.3
+"Lafayette County, Florida",Bicycle,MOE,11.9
+"Lafayette County, Florida",Walked,Estimate,59.5
+"Lafayette County, Florida",Walked,MOE,32.9
+"Lafayette County, Florida",Taxicab,Estimate,-
+"Lafayette County, Florida",Taxicab,MOE,**
+"Lafayette County, Florida",Motorcycle,Estimate,8.3
+"Lafayette County, Florida",Motorcycle,MOE,8.1
+"Lafayette County, Florida",Other method,Estimate,2
+"Lafayette County, Florida",Other method,MOE,2
+"Lafayette County, Florida",Worked at home,Estimate,0
+"Lafayette County, Florida",Worked at home,MOE,0
+"Lake County, Florida","Total, means of transportation",Estimate,28.2
+"Lake County, Florida","Total, means of transportation",MOE,0.7
+"Lake County, Florida","Car, truck, or van -- Drove alone",Estimate,28.4
+"Lake County, Florida","Car, truck, or van -- Drove alone",MOE,0.7
+"Lake County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,26.1
+"Lake County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,1.9
+"Lake County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,29
+"Lake County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,4.2
+"Lake County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,38.9
+"Lake County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,10.1
+"Lake County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,57.1
+"Lake County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,30.4
+"Lake County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,19.9
+"Lake County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,2.7
+"Lake County, Florida",Bus or trolley bus,Estimate,40.8
+"Lake County, Florida",Bus or trolley bus,MOE,10.8
+"Lake County, Florida",Streetcar or trolley car,Estimate,220
+"Lake County, Florida",Streetcar or trolley car,MOE,152.6
+"Lake County, Florida",Subway or elevated,Estimate,31.3
+"Lake County, Florida",Subway or elevated,MOE,8.7
+"Lake County, Florida",Railroad,Estimate,-
+"Lake County, Florida",Railroad,MOE,**
+"Lake County, Florida",Ferryboat,Estimate,-
+"Lake County, Florida",Ferryboat,MOE,**
+"Lake County, Florida",Bicycle,Estimate,15.2
+"Lake County, Florida",Bicycle,MOE,4.1
+"Lake County, Florida",Walked,Estimate,10.5
+"Lake County, Florida",Walked,MOE,3
+"Lake County, Florida",Taxicab,Estimate,44.2
+"Lake County, Florida",Taxicab,MOE,4.8
+"Lake County, Florida",Motorcycle,Estimate,22.1
+"Lake County, Florida",Motorcycle,MOE,4.5
+"Lake County, Florida",Other method,Estimate,31.8
+"Lake County, Florida",Other method,MOE,9.8
+"Lake County, Florida",Worked at home,Estimate,0
+"Lake County, Florida",Worked at home,MOE,0
+"Lee County, Florida","Total, means of transportation",Estimate,27.3
+"Lee County, Florida","Total, means of transportation",MOE,0.4
+"Lee County, Florida","Car, truck, or van -- Drove alone",Estimate,26.7
+"Lee County, Florida","Car, truck, or van -- Drove alone",MOE,0.4
+"Lee County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,28.9
+"Lee County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,1.9
+"Lee County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,29.7
+"Lee County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,3.4
+"Lee County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,31.7
+"Lee County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,4.3
+"Lee County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,43.1
+"Lee County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,9.2
+"Lee County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,43
+"Lee County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,9.9
+"Lee County, Florida",Bus or trolley bus,Estimate,49.5
+"Lee County, Florida",Bus or trolley bus,MOE,6.4
+"Lee County, Florida",Streetcar or trolley car,Estimate,47.3
+"Lee County, Florida",Streetcar or trolley car,MOE,16.8
+"Lee County, Florida",Subway or elevated,Estimate,-
+"Lee County, Florida",Subway or elevated,MOE,**
+"Lee County, Florida",Railroad,Estimate,56.4
+"Lee County, Florida",Railroad,MOE,20.4
+"Lee County, Florida",Ferryboat,Estimate,-
+"Lee County, Florida",Ferryboat,MOE,**
+"Lee County, Florida",Bicycle,Estimate,21.7
+"Lee County, Florida",Bicycle,MOE,2.2
+"Lee County, Florida",Walked,Estimate,8.8
+"Lee County, Florida",Walked,MOE,1.2
+"Lee County, Florida",Taxicab,Estimate,35.9
+"Lee County, Florida",Taxicab,MOE,7.9
+"Lee County, Florida",Motorcycle,Estimate,21
+"Lee County, Florida",Motorcycle,MOE,2.5
+"Lee County, Florida",Other method,Estimate,44.3
+"Lee County, Florida",Other method,MOE,6.6
+"Lee County, Florida",Worked at home,Estimate,0
+"Lee County, Florida",Worked at home,MOE,0
+"Leon County, Florida","Total, means of transportation",Estimate,20.6
+"Leon County, Florida","Total, means of transportation",MOE,0.4
+"Leon County, Florida","Car, truck, or van -- Drove alone",Estimate,20
+"Leon County, Florida","Car, truck, or van -- Drove alone",MOE,0.4
+"Leon County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,21.5
+"Leon County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,1.1
+"Leon County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,25.1
+"Leon County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,3.6
+"Leon County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,29.1
+"Leon County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,5.8
+"Leon County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,26.9
+"Leon County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,8.3
+"Leon County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,28.4
+"Leon County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,11.9
+"Leon County, Florida",Bus or trolley bus,Estimate,45.5
+"Leon County, Florida",Bus or trolley bus,MOE,5.9
+"Leon County, Florida",Streetcar or trolley car,Estimate,-
+"Leon County, Florida",Streetcar or trolley car,MOE,**
+"Leon County, Florida",Subway or elevated,Estimate,37
+"Leon County, Florida",Subway or elevated,MOE,21.1
+"Leon County, Florida",Railroad,Estimate,-
+"Leon County, Florida",Railroad,MOE,**
+"Leon County, Florida",Ferryboat,Estimate,52
+"Leon County, Florida",Ferryboat,MOE,37.7
+"Leon County, Florida",Bicycle,Estimate,16.8
+"Leon County, Florida",Bicycle,MOE,2.5
+"Leon County, Florida",Walked,Estimate,11
+"Leon County, Florida",Walked,MOE,1.5
+"Leon County, Florida",Taxicab,Estimate,26.9
+"Leon County, Florida",Taxicab,MOE,5.3
+"Leon County, Florida",Motorcycle,Estimate,15.5
+"Leon County, Florida",Motorcycle,MOE,3.2
+"Leon County, Florida",Other method,Estimate,42.8
+"Leon County, Florida",Other method,MOE,12.4
+"Leon County, Florida",Worked at home,Estimate,0
+"Leon County, Florida",Worked at home,MOE,0
+"Levy County, Florida","Total, means of transportation",Estimate,29.7
+"Levy County, Florida","Total, means of transportation",MOE,1.6
+"Levy County, Florida","Car, truck, or van -- Drove alone",Estimate,29.4
+"Levy County, Florida","Car, truck, or van -- Drove alone",MOE,1.5
+"Levy County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,34
+"Levy County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,5.5
+"Levy County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,44.3
+"Levy County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,18.6
+"Levy County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,27.5
+"Levy County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,7.2
+"Levy County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,27.7
+"Levy County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,14
+"Levy County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,-
+"Levy County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,**
+"Levy County, Florida",Bus or trolley bus,Estimate,30
+"Levy County, Florida",Bus or trolley bus,MOE,25
+"Levy County, Florida",Streetcar or trolley car,Estimate,-
+"Levy County, Florida",Streetcar or trolley car,MOE,**
+"Levy County, Florida",Subway or elevated,Estimate,-
+"Levy County, Florida",Subway or elevated,MOE,**
+"Levy County, Florida",Railroad,Estimate,-
+"Levy County, Florida",Railroad,MOE,**
+"Levy County, Florida",Ferryboat,Estimate,-
+"Levy County, Florida",Ferryboat,MOE,**
+"Levy County, Florida",Bicycle,Estimate,12.6
+"Levy County, Florida",Bicycle,MOE,8.4
+"Levy County, Florida",Walked,Estimate,6
+"Levy County, Florida",Walked,MOE,2.2
+"Levy County, Florida",Taxicab,Estimate,-
+"Levy County, Florida",Taxicab,MOE,**
+"Levy County, Florida",Motorcycle,Estimate,25
+"Levy County, Florida",Motorcycle,MOE,32.8
+"Levy County, Florida",Other method,Estimate,23.8
+"Levy County, Florida",Other method,MOE,13.2
+"Levy County, Florida",Worked at home,Estimate,0
+"Levy County, Florida",Worked at home,MOE,0
+"Liberty County, Florida","Total, means of transportation",Estimate,32.7
+"Liberty County, Florida","Total, means of transportation",MOE,3.3
+"Liberty County, Florida","Car, truck, or van -- Drove alone",Estimate,29.5
+"Liberty County, Florida","Car, truck, or van -- Drove alone",MOE,2.8
+"Liberty County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,48
+"Liberty County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,14.4
+"Liberty County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,33.9
+"Liberty County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,11.2
+"Liberty County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,88.6
+"Liberty County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,30.2
+"Liberty County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,-
+"Liberty County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,**
+"Liberty County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,-
+"Liberty County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,**
+"Liberty County, Florida",Bus or trolley bus,Estimate,59.7
+"Liberty County, Florida",Bus or trolley bus,MOE,5.6
+"Liberty County, Florida",Streetcar or trolley car,Estimate,-
+"Liberty County, Florida",Streetcar or trolley car,MOE,**
+"Liberty County, Florida",Subway or elevated,Estimate,-
+"Liberty County, Florida",Subway or elevated,MOE,**
+"Liberty County, Florida",Railroad,Estimate,-
+"Liberty County, Florida",Railroad,MOE,**
+"Liberty County, Florida",Ferryboat,Estimate,-
+"Liberty County, Florida",Ferryboat,MOE,**
+"Liberty County, Florida",Bicycle,Estimate,-
+"Liberty County, Florida",Bicycle,MOE,**
+"Liberty County, Florida",Walked,Estimate,4.3
+"Liberty County, Florida",Walked,MOE,3.2
+"Liberty County, Florida",Taxicab,Estimate,-
+"Liberty County, Florida",Taxicab,MOE,**
+"Liberty County, Florida",Motorcycle,Estimate,-
+"Liberty County, Florida",Motorcycle,MOE,**
+"Liberty County, Florida",Other method,Estimate,23.9
+"Liberty County, Florida",Other method,MOE,25.9
+"Liberty County, Florida",Worked at home,Estimate,0
+"Liberty County, Florida",Worked at home,MOE,0
+"Madison County, Florida","Total, means of transportation",Estimate,26.2
+"Madison County, Florida","Total, means of transportation",MOE,2.8
+"Madison County, Florida","Car, truck, or van -- Drove alone",Estimate,26.2
+"Madison County, Florida","Car, truck, or van -- Drove alone",MOE,2.9
+"Madison County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,27.4
+"Madison County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,6.6
+"Madison County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,27.1
+"Madison County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,7.4
+"Madison County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,72
+"Madison County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,22.2
+"Madison County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,15.4
+"Madison County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,5.8
+"Madison County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,23.4
+"Madison County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,11
+"Madison County, Florida",Bus or trolley bus,Estimate,-
+"Madison County, Florida",Bus or trolley bus,MOE,**
+"Madison County, Florida",Streetcar or trolley car,Estimate,-
+"Madison County, Florida",Streetcar or trolley car,MOE,**
+"Madison County, Florida",Subway or elevated,Estimate,-
+"Madison County, Florida",Subway or elevated,MOE,**
+"Madison County, Florida",Railroad,Estimate,-
+"Madison County, Florida",Railroad,MOE,**
+"Madison County, Florida",Ferryboat,Estimate,-
+"Madison County, Florida",Ferryboat,MOE,**
+"Madison County, Florida",Bicycle,Estimate,17
+"Madison County, Florida",Bicycle,MOE,31.2
+"Madison County, Florida",Walked,Estimate,7
+"Madison County, Florida",Walked,MOE,4.6
+"Madison County, Florida",Taxicab,Estimate,-
+"Madison County, Florida",Taxicab,MOE,**
+"Madison County, Florida",Motorcycle,Estimate,56
+"Madison County, Florida",Motorcycle,MOE,53.2
+"Madison County, Florida",Other method,Estimate,24.8
+"Madison County, Florida",Other method,MOE,12
+"Madison County, Florida",Worked at home,Estimate,0
+"Madison County, Florida",Worked at home,MOE,0
+"Manatee County, Florida","Total, means of transportation",Estimate,25.1
+"Manatee County, Florida","Total, means of transportation",MOE,0.5
+"Manatee County, Florida","Car, truck, or van -- Drove alone",Estimate,24.8
+"Manatee County, Florida","Car, truck, or van -- Drove alone",MOE,0.5
+"Manatee County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,24.1
+"Manatee County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,1.6
+"Manatee County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,28.5
+"Manatee County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,4.7
+"Manatee County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,34.3
+"Manatee County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,5.7
+"Manatee County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,27
+"Manatee County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,7.3
+"Manatee County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,25.3
+"Manatee County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,10.3
+"Manatee County, Florida",Bus or trolley bus,Estimate,40.6
+"Manatee County, Florida",Bus or trolley bus,MOE,8.1
+"Manatee County, Florida",Streetcar or trolley car,Estimate,-
+"Manatee County, Florida",Streetcar or trolley car,MOE,**
+"Manatee County, Florida",Subway or elevated,Estimate,-
+"Manatee County, Florida",Subway or elevated,MOE,**
+"Manatee County, Florida",Railroad,Estimate,37.5
+"Manatee County, Florida",Railroad,MOE,45.3
+"Manatee County, Florida",Ferryboat,Estimate,47
+"Manatee County, Florida",Ferryboat,MOE,88
+"Manatee County, Florida",Bicycle,Estimate,34.1
+"Manatee County, Florida",Bicycle,MOE,14.2
+"Manatee County, Florida",Walked,Estimate,11.5
+"Manatee County, Florida",Walked,MOE,2.3
+"Manatee County, Florida",Taxicab,Estimate,16.3
+"Manatee County, Florida",Taxicab,MOE,5.8
+"Manatee County, Florida",Motorcycle,Estimate,15.9
+"Manatee County, Florida",Motorcycle,MOE,2.6
+"Manatee County, Florida",Other method,Estimate,57
+"Manatee County, Florida",Other method,MOE,14.8
+"Manatee County, Florida",Worked at home,Estimate,0
+"Manatee County, Florida",Worked at home,MOE,0
+"Marion County, Florida","Total, means of transportation",Estimate,25
+"Marion County, Florida","Total, means of transportation",MOE,0.5
+"Marion County, Florida","Car, truck, or van -- Drove alone",Estimate,25
+"Marion County, Florida","Car, truck, or van -- Drove alone",MOE,0.6
+"Marion County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,24.4
+"Marion County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,1.7
+"Marion County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,27.1
+"Marion County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,6.3
+"Marion County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,37.7
+"Marion County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,10.3
+"Marion County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,38.2
+"Marion County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,12.4
+"Marion County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,31.4
+"Marion County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,5.8
+"Marion County, Florida",Bus or trolley bus,Estimate,34
+"Marion County, Florida",Bus or trolley bus,MOE,11.5
+"Marion County, Florida",Streetcar or trolley car,Estimate,-
+"Marion County, Florida",Streetcar or trolley car,MOE,**
+"Marion County, Florida",Subway or elevated,Estimate,-
+"Marion County, Florida",Subway or elevated,MOE,**
+"Marion County, Florida",Railroad,Estimate,172.3
+"Marion County, Florida",Railroad,MOE,158.4
+"Marion County, Florida",Ferryboat,Estimate,30.3
+"Marion County, Florida",Ferryboat,MOE,19.4
+"Marion County, Florida",Bicycle,Estimate,23.4
+"Marion County, Florida",Bicycle,MOE,6.3
+"Marion County, Florida",Walked,Estimate,11.6
+"Marion County, Florida",Walked,MOE,4.1
+"Marion County, Florida",Taxicab,Estimate,20
+"Marion County, Florida",Taxicab,MOE,3.7
+"Marion County, Florida",Motorcycle,Estimate,23.5
+"Marion County, Florida",Motorcycle,MOE,6.9
+"Marion County, Florida",Other method,Estimate,32.2
+"Marion County, Florida",Other method,MOE,9.7
+"Marion County, Florida",Worked at home,Estimate,0
+"Marion County, Florida",Worked at home,MOE,0
+"Martin County, Florida","Total, means of transportation",Estimate,26.1
+"Martin County, Florida","Total, means of transportation",MOE,0.9
+"Martin County, Florida","Car, truck, or van -- Drove alone",Estimate,25.6
+"Martin County, Florida","Car, truck, or van -- Drove alone",MOE,0.9
+"Martin County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,24.4
+"Martin County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,2.1
+"Martin County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,38.9
+"Martin County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,10
+"Martin County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,35.8
+"Martin County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,5
+"Martin County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,31.2
+"Martin County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,6.4
+"Martin County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,20.1
+"Martin County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,7.6
+"Martin County, Florida",Bus or trolley bus,Estimate,44.7
+"Martin County, Florida",Bus or trolley bus,MOE,31.5
+"Martin County, Florida",Streetcar or trolley car,Estimate,186.8
+"Martin County, Florida",Streetcar or trolley car,MOE,44.3
+"Martin County, Florida",Subway or elevated,Estimate,57.7
+"Martin County, Florida",Subway or elevated,MOE,33.7
+"Martin County, Florida",Railroad,Estimate,114
+"Martin County, Florida",Railroad,MOE,92.2
+"Martin County, Florida",Ferryboat,Estimate,-
+"Martin County, Florida",Ferryboat,MOE,**
+"Martin County, Florida",Bicycle,Estimate,18
+"Martin County, Florida",Bicycle,MOE,3.7
+"Martin County, Florida",Walked,Estimate,14.8
+"Martin County, Florida",Walked,MOE,6.6
+"Martin County, Florida",Taxicab,Estimate,18.2
+"Martin County, Florida",Taxicab,MOE,8.6
+"Martin County, Florida",Motorcycle,Estimate,32.2
+"Martin County, Florida",Motorcycle,MOE,21.4
+"Martin County, Florida",Other method,Estimate,33.3
+"Martin County, Florida",Other method,MOE,15.3
+"Martin County, Florida",Worked at home,Estimate,0
+"Martin County, Florida",Worked at home,MOE,0
+"Miami-Dade County, Florida","Total, means of transportation",Estimate,30.7
+"Miami-Dade County, Florida","Total, means of transportation",MOE,0.3
+"Miami-Dade County, Florida","Car, truck, or van -- Drove alone",Estimate,29.7
+"Miami-Dade County, Florida","Car, truck, or van -- Drove alone",MOE,0.3
+"Miami-Dade County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,30.4
+"Miami-Dade County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,0.6
+"Miami-Dade County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,33
+"Miami-Dade County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,1.4
+"Miami-Dade County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,34.4
+"Miami-Dade County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,2.9
+"Miami-Dade County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,36.4
+"Miami-Dade County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,4.9
+"Miami-Dade County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,33.3
+"Miami-Dade County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,5.3
+"Miami-Dade County, Florida",Bus or trolley bus,Estimate,50.8
+"Miami-Dade County, Florida",Bus or trolley bus,MOE,1.3
+"Miami-Dade County, Florida",Streetcar or trolley car,Estimate,44.6
+"Miami-Dade County, Florida",Streetcar or trolley car,MOE,12.4
+"Miami-Dade County, Florida",Subway or elevated,Estimate,47
+"Miami-Dade County, Florida",Subway or elevated,MOE,2.1
+"Miami-Dade County, Florida",Railroad,Estimate,54.5
+"Miami-Dade County, Florida",Railroad,MOE,6.8
+"Miami-Dade County, Florida",Ferryboat,Estimate,30.2
+"Miami-Dade County, Florida",Ferryboat,MOE,4.9
+"Miami-Dade County, Florida",Bicycle,Estimate,18.9
+"Miami-Dade County, Florida",Bicycle,MOE,1.3
+"Miami-Dade County, Florida",Walked,Estimate,13.2
+"Miami-Dade County, Florida",Walked,MOE,0.6
+"Miami-Dade County, Florida",Taxicab,Estimate,25.6
+"Miami-Dade County, Florida",Taxicab,MOE,3.9
+"Miami-Dade County, Florida",Motorcycle,Estimate,21.5
+"Miami-Dade County, Florida",Motorcycle,MOE,1.9
+"Miami-Dade County, Florida",Other method,Estimate,44.1
+"Miami-Dade County, Florida",Other method,MOE,3.3
+"Miami-Dade County, Florida",Worked at home,Estimate,0
+"Miami-Dade County, Florida",Worked at home,MOE,0
+"Monroe County, Florida","Total, means of transportation",Estimate,18.4
+"Monroe County, Florida","Total, means of transportation",MOE,0.7
+"Monroe County, Florida","Car, truck, or van -- Drove alone",Estimate,18.7
+"Monroe County, Florida","Car, truck, or van -- Drove alone",MOE,0.8
+"Monroe County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,22
+"Monroe County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,2.3
+"Monroe County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,32.5
+"Monroe County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,18.2
+"Monroe County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,10.8
+"Monroe County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,2.5
+"Monroe County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,26.3
+"Monroe County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,11
+"Monroe County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,16.7
+"Monroe County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,8.2
+"Monroe County, Florida",Bus or trolley bus,Estimate,34.4
+"Monroe County, Florida",Bus or trolley bus,MOE,7.9
+"Monroe County, Florida",Streetcar or trolley car,Estimate,-
+"Monroe County, Florida",Streetcar or trolley car,MOE,**
+"Monroe County, Florida",Subway or elevated,Estimate,47
+"Monroe County, Florida",Subway or elevated,MOE,14.3
+"Monroe County, Florida",Railroad,Estimate,64
+"Monroe County, Florida",Railroad,MOE,40.8
+"Monroe County, Florida",Ferryboat,Estimate,22.7
+"Monroe County, Florida",Ferryboat,MOE,12.4
+"Monroe County, Florida",Bicycle,Estimate,12.8
+"Monroe County, Florida",Bicycle,MOE,1.4
+"Monroe County, Florida",Walked,Estimate,8.7
+"Monroe County, Florida",Walked,MOE,2.6
+"Monroe County, Florida",Taxicab,Estimate,11
+"Monroe County, Florida",Taxicab,MOE,2.1
+"Monroe County, Florida",Motorcycle,Estimate,10.2
+"Monroe County, Florida",Motorcycle,MOE,1.8
+"Monroe County, Florida",Other method,Estimate,20.9
+"Monroe County, Florida",Other method,MOE,5.4
+"Monroe County, Florida",Worked at home,Estimate,0
+"Monroe County, Florida",Worked at home,MOE,0
+"Nassau County, Florida","Total, means of transportation",Estimate,29.4
+"Nassau County, Florida","Total, means of transportation",MOE,1
+"Nassau County, Florida","Car, truck, or van -- Drove alone",Estimate,28.9
+"Nassau County, Florida","Car, truck, or van -- Drove alone",MOE,0.9
+"Nassau County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,30
+"Nassau County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,3.3
+"Nassau County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,71.4
+"Nassau County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,26.2
+"Nassau County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,36.6
+"Nassau County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,32.2
+"Nassau County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,47.1
+"Nassau County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,8.4
+"Nassau County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,29.5
+"Nassau County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,36.4
+"Nassau County, Florida",Bus or trolley bus,Estimate,14.9
+"Nassau County, Florida",Bus or trolley bus,MOE,6.2
+"Nassau County, Florida",Streetcar or trolley car,Estimate,-
+"Nassau County, Florida",Streetcar or trolley car,MOE,**
+"Nassau County, Florida",Subway or elevated,Estimate,-
+"Nassau County, Florida",Subway or elevated,MOE,**
+"Nassau County, Florida",Railroad,Estimate,63.8
+"Nassau County, Florida",Railroad,MOE,82.9
+"Nassau County, Florida",Ferryboat,Estimate,-
+"Nassau County, Florida",Ferryboat,MOE,**
+"Nassau County, Florida",Bicycle,Estimate,13.7
+"Nassau County, Florida",Bicycle,MOE,8.7
+"Nassau County, Florida",Walked,Estimate,10.8
+"Nassau County, Florida",Walked,MOE,5.9
+"Nassau County, Florida",Taxicab,Estimate,-
+"Nassau County, Florida",Taxicab,MOE,**
+"Nassau County, Florida",Motorcycle,Estimate,19.2
+"Nassau County, Florida",Motorcycle,MOE,9.9
+"Nassau County, Florida",Other method,Estimate,53.4
+"Nassau County, Florida",Other method,MOE,21.1
+"Nassau County, Florida",Worked at home,Estimate,0
+"Nassau County, Florida",Worked at home,MOE,0
+"Okaloosa County, Florida","Total, means of transportation",Estimate,23.2
+"Okaloosa County, Florida","Total, means of transportation",MOE,0.5
+"Okaloosa County, Florida","Car, truck, or van -- Drove alone",Estimate,22.7
+"Okaloosa County, Florida","Car, truck, or van -- Drove alone",MOE,0.5
+"Okaloosa County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,26.1
+"Okaloosa County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,2.4
+"Okaloosa County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,26.1
+"Okaloosa County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,8.2
+"Okaloosa County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,35.1
+"Okaloosa County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,6.9
+"Okaloosa County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,47.2
+"Okaloosa County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,22.3
+"Okaloosa County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,24.4
+"Okaloosa County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,14.9
+"Okaloosa County, Florida",Bus or trolley bus,Estimate,32.3
+"Okaloosa County, Florida",Bus or trolley bus,MOE,6.9
+"Okaloosa County, Florida",Streetcar or trolley car,Estimate,-
+"Okaloosa County, Florida",Streetcar or trolley car,MOE,**
+"Okaloosa County, Florida",Subway or elevated,Estimate,7.5
+"Okaloosa County, Florida",Subway or elevated,MOE,16.9
+"Okaloosa County, Florida",Railroad,Estimate,-
+"Okaloosa County, Florida",Railroad,MOE,**
+"Okaloosa County, Florida",Ferryboat,Estimate,31.4
+"Okaloosa County, Florida",Ferryboat,MOE,7
+"Okaloosa County, Florida",Bicycle,Estimate,16.5
+"Okaloosa County, Florida",Bicycle,MOE,2.4
+"Okaloosa County, Florida",Walked,Estimate,12.1
+"Okaloosa County, Florida",Walked,MOE,3.2
+"Okaloosa County, Florida",Taxicab,Estimate,22.1
+"Okaloosa County, Florida",Taxicab,MOE,6.2
+"Okaloosa County, Florida",Motorcycle,Estimate,27
+"Okaloosa County, Florida",Motorcycle,MOE,11.2
+"Okaloosa County, Florida",Other method,Estimate,36.7
+"Okaloosa County, Florida",Other method,MOE,11
+"Okaloosa County, Florida",Worked at home,Estimate,0
+"Okaloosa County, Florida",Worked at home,MOE,0
+"Okeechobee County, Florida","Total, means of transportation",Estimate,25.1
+"Okeechobee County, Florida","Total, means of transportation",MOE,1.9
+"Okeechobee County, Florida","Car, truck, or van -- Drove alone",Estimate,24.1
+"Okeechobee County, Florida","Car, truck, or van -- Drove alone",MOE,1.9
+"Okeechobee County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,30.4
+"Okeechobee County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,5.4
+"Okeechobee County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,25.9
+"Okeechobee County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,11.1
+"Okeechobee County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,46.7
+"Okeechobee County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,17.7
+"Okeechobee County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,12.5
+"Okeechobee County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,17.5
+"Okeechobee County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,46.2
+"Okeechobee County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,24.2
+"Okeechobee County, Florida",Bus or trolley bus,Estimate,26.5
+"Okeechobee County, Florida",Bus or trolley bus,MOE,7.1
+"Okeechobee County, Florida",Streetcar or trolley car,Estimate,-
+"Okeechobee County, Florida",Streetcar or trolley car,MOE,**
+"Okeechobee County, Florida",Subway or elevated,Estimate,-
+"Okeechobee County, Florida",Subway or elevated,MOE,**
+"Okeechobee County, Florida",Railroad,Estimate,-
+"Okeechobee County, Florida",Railroad,MOE,**
+"Okeechobee County, Florida",Ferryboat,Estimate,-
+"Okeechobee County, Florida",Ferryboat,MOE,**
+"Okeechobee County, Florida",Bicycle,Estimate,20.1
+"Okeechobee County, Florida",Bicycle,MOE,7.3
+"Okeechobee County, Florida",Walked,Estimate,9.5
+"Okeechobee County, Florida",Walked,MOE,4.7
+"Okeechobee County, Florida",Taxicab,Estimate,-
+"Okeechobee County, Florida",Taxicab,MOE,**
+"Okeechobee County, Florida",Motorcycle,Estimate,38
+"Okeechobee County, Florida",Motorcycle,MOE,37.7
+"Okeechobee County, Florida",Other method,Estimate,78.1
+"Okeechobee County, Florida",Other method,MOE,69.2
+"Okeechobee County, Florida",Worked at home,Estimate,0
+"Okeechobee County, Florida",Worked at home,MOE,0
+"Orange County, Florida","Total, means of transportation",Estimate,27.1
+"Orange County, Florida","Total, means of transportation",MOE,0.3
+"Orange County, Florida","Car, truck, or van -- Drove alone",Estimate,26
+"Orange County, Florida","Car, truck, or van -- Drove alone",MOE,0.3
+"Orange County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,26.7
+"Orange County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,0.9
+"Orange County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,31.2
+"Orange County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,2.7
+"Orange County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,35.8
+"Orange County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,3.5
+"Orange County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,31.3
+"Orange County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,5.1
+"Orange County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,33.3
+"Orange County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,10.1
+"Orange County, Florida",Bus or trolley bus,Estimate,59.2
+"Orange County, Florida",Bus or trolley bus,MOE,3
+"Orange County, Florida",Streetcar or trolley car,Estimate,35.4
+"Orange County, Florida",Streetcar or trolley car,MOE,7
+"Orange County, Florida",Subway or elevated,Estimate,88.5
+"Orange County, Florida",Subway or elevated,MOE,38.7
+"Orange County, Florida",Railroad,Estimate,42.6
+"Orange County, Florida",Railroad,MOE,19
+"Orange County, Florida",Ferryboat,Estimate,62.3
+"Orange County, Florida",Ferryboat,MOE,19.6
+"Orange County, Florida",Bicycle,Estimate,21.5
+"Orange County, Florida",Bicycle,MOE,2.3
+"Orange County, Florida",Walked,Estimate,15.3
+"Orange County, Florida",Walked,MOE,1.9
+"Orange County, Florida",Taxicab,Estimate,19.1
+"Orange County, Florida",Taxicab,MOE,7
+"Orange County, Florida",Motorcycle,Estimate,21.7
+"Orange County, Florida",Motorcycle,MOE,2.5
+"Orange County, Florida",Other method,Estimate,38.3
+"Orange County, Florida",Other method,MOE,4.8
+"Orange County, Florida",Worked at home,Estimate,0
+"Orange County, Florida",Worked at home,MOE,0
+"Osceola County, Florida","Total, means of transportation",Estimate,31.4
+"Osceola County, Florida","Total, means of transportation",MOE,0.7
+"Osceola County, Florida","Car, truck, or van -- Drove alone",Estimate,31.1
+"Osceola County, Florida","Car, truck, or van -- Drove alone",MOE,0.7
+"Osceola County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,30.6
+"Osceola County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,1.9
+"Osceola County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,34
+"Osceola County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,5.9
+"Osceola County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,26.9
+"Osceola County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,4
+"Osceola County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,30.6
+"Osceola County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,11.4
+"Osceola County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,13.7
+"Osceola County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,8.6
+"Osceola County, Florida",Bus or trolley bus,Estimate,52.8
+"Osceola County, Florida",Bus or trolley bus,MOE,7.7
+"Osceola County, Florida",Streetcar or trolley car,Estimate,-
+"Osceola County, Florida",Streetcar or trolley car,MOE,**
+"Osceola County, Florida",Subway or elevated,Estimate,-
+"Osceola County, Florida",Subway or elevated,MOE,**
+"Osceola County, Florida",Railroad,Estimate,50.6
+"Osceola County, Florida",Railroad,MOE,47.1
+"Osceola County, Florida",Ferryboat,Estimate,-
+"Osceola County, Florida",Ferryboat,MOE,**
+"Osceola County, Florida",Bicycle,Estimate,18.4
+"Osceola County, Florida",Bicycle,MOE,3
+"Osceola County, Florida",Walked,Estimate,20.3
+"Osceola County, Florida",Walked,MOE,8.4
+"Osceola County, Florida",Taxicab,Estimate,16.4
+"Osceola County, Florida",Taxicab,MOE,1.5
+"Osceola County, Florida",Motorcycle,Estimate,30.5
+"Osceola County, Florida",Motorcycle,MOE,6.8
+"Osceola County, Florida",Other method,Estimate,48.1
+"Osceola County, Florida",Other method,MOE,13.4
+"Osceola County, Florida",Worked at home,Estimate,0
+"Osceola County, Florida",Worked at home,MOE,0
+"Palm Beach County, Florida","Total, means of transportation",Estimate,25.2
+"Palm Beach County, Florida","Total, means of transportation",MOE,0.2
+"Palm Beach County, Florida","Car, truck, or van -- Drove alone",Estimate,24.4
+"Palm Beach County, Florida","Car, truck, or van -- Drove alone",MOE,0.2
+"Palm Beach County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,25.6
+"Palm Beach County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,0.7
+"Palm Beach County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,28.9
+"Palm Beach County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,2.1
+"Palm Beach County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,39.8
+"Palm Beach County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,4.5
+"Palm Beach County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,35.6
+"Palm Beach County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,5.7
+"Palm Beach County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,37.8
+"Palm Beach County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,4.9
+"Palm Beach County, Florida",Bus or trolley bus,Estimate,46.3
+"Palm Beach County, Florida",Bus or trolley bus,MOE,2.3
+"Palm Beach County, Florida",Streetcar or trolley car,Estimate,38.6
+"Palm Beach County, Florida",Streetcar or trolley car,MOE,9.7
+"Palm Beach County, Florida",Subway or elevated,Estimate,39.7
+"Palm Beach County, Florida",Subway or elevated,MOE,11
+"Palm Beach County, Florida",Railroad,Estimate,68.7
+"Palm Beach County, Florida",Railroad,MOE,7.5
+"Palm Beach County, Florida",Ferryboat,Estimate,33.7
+"Palm Beach County, Florida",Ferryboat,MOE,14.6
+"Palm Beach County, Florida",Bicycle,Estimate,21.2
+"Palm Beach County, Florida",Bicycle,MOE,2.5
+"Palm Beach County, Florida",Walked,Estimate,11.8
+"Palm Beach County, Florida",Walked,MOE,1.5
+"Palm Beach County, Florida",Taxicab,Estimate,30.4
+"Palm Beach County, Florida",Taxicab,MOE,5.2
+"Palm Beach County, Florida",Motorcycle,Estimate,22.2
+"Palm Beach County, Florida",Motorcycle,MOE,3.7
+"Palm Beach County, Florida",Other method,Estimate,40.6
+"Palm Beach County, Florida",Other method,MOE,4.6
+"Palm Beach County, Florida",Worked at home,Estimate,0
+"Palm Beach County, Florida",Worked at home,MOE,0
+"Pasco County, Florida","Total, means of transportation",Estimate,30.8
+"Pasco County, Florida","Total, means of transportation",MOE,0.4
+"Pasco County, Florida","Car, truck, or van -- Drove alone",Estimate,30.8
+"Pasco County, Florida","Car, truck, or van -- Drove alone",MOE,0.5
+"Pasco County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,32.6
+"Pasco County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,1.9
+"Pasco County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,34.2
+"Pasco County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,4.2
+"Pasco County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,34.1
+"Pasco County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,8.2
+"Pasco County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,44.5
+"Pasco County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,18.2
+"Pasco County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,37.9
+"Pasco County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,13.4
+"Pasco County, Florida",Bus or trolley bus,Estimate,42.2
+"Pasco County, Florida",Bus or trolley bus,MOE,7.8
+"Pasco County, Florida",Streetcar or trolley car,Estimate,50.5
+"Pasco County, Florida",Streetcar or trolley car,MOE,49.2
+"Pasco County, Florida",Subway or elevated,Estimate,54.5
+"Pasco County, Florida",Subway or elevated,MOE,101.7
+"Pasco County, Florida",Railroad,Estimate,-
+"Pasco County, Florida",Railroad,MOE,**
+"Pasco County, Florida",Ferryboat,Estimate,-
+"Pasco County, Florida",Ferryboat,MOE,**
+"Pasco County, Florida",Bicycle,Estimate,27.1
+"Pasco County, Florida",Bicycle,MOE,8.4
+"Pasco County, Florida",Walked,Estimate,12.3
+"Pasco County, Florida",Walked,MOE,2.2
+"Pasco County, Florida",Taxicab,Estimate,13.4
+"Pasco County, Florida",Taxicab,MOE,8.5
+"Pasco County, Florida",Motorcycle,Estimate,25.5
+"Pasco County, Florida",Motorcycle,MOE,5.8
+"Pasco County, Florida",Other method,Estimate,31
+"Pasco County, Florida",Other method,MOE,4.1
+"Pasco County, Florida",Worked at home,Estimate,0
+"Pasco County, Florida",Worked at home,MOE,0
+"Pinellas County, Florida","Total, means of transportation",Estimate,24.3
+"Pinellas County, Florida","Total, means of transportation",MOE,0.3
+"Pinellas County, Florida","Car, truck, or van -- Drove alone",Estimate,23.8
+"Pinellas County, Florida","Car, truck, or van -- Drove alone",MOE,0.3
+"Pinellas County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,23.4
+"Pinellas County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,1
+"Pinellas County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,27.8
+"Pinellas County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,2.7
+"Pinellas County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,21.3
+"Pinellas County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,3.1
+"Pinellas County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,20.5
+"Pinellas County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,4.9
+"Pinellas County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,20.4
+"Pinellas County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,7.5
+"Pinellas County, Florida",Bus or trolley bus,Estimate,42.7
+"Pinellas County, Florida",Bus or trolley bus,MOE,3
+"Pinellas County, Florida",Streetcar or trolley car,Estimate,9.7
+"Pinellas County, Florida",Streetcar or trolley car,MOE,6
+"Pinellas County, Florida",Subway or elevated,Estimate,46.9
+"Pinellas County, Florida",Subway or elevated,MOE,15.6
+"Pinellas County, Florida",Railroad,Estimate,-
+"Pinellas County, Florida",Railroad,MOE,**
+"Pinellas County, Florida",Ferryboat,Estimate,53.7
+"Pinellas County, Florida",Ferryboat,MOE,50.8
+"Pinellas County, Florida",Bicycle,Estimate,21.6
+"Pinellas County, Florida",Bicycle,MOE,1.6
+"Pinellas County, Florida",Walked,Estimate,11.8
+"Pinellas County, Florida",Walked,MOE,1
+"Pinellas County, Florida",Taxicab,Estimate,17.6
+"Pinellas County, Florida",Taxicab,MOE,6.8
+"Pinellas County, Florida",Motorcycle,Estimate,19.6
+"Pinellas County, Florida",Motorcycle,MOE,2.2
+"Pinellas County, Florida",Other method,Estimate,50.6
+"Pinellas County, Florida",Other method,MOE,8.3
+"Pinellas County, Florida",Worked at home,Estimate,0
+"Pinellas County, Florida",Worked at home,MOE,0
+"Polk County, Florida","Total, means of transportation",Estimate,25.5
+"Polk County, Florida","Total, means of transportation",MOE,0.4
+"Polk County, Florida","Car, truck, or van -- Drove alone",Estimate,25.5
+"Polk County, Florida","Car, truck, or van -- Drove alone",MOE,0.4
+"Polk County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,25.7
+"Polk County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,1.2
+"Polk County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,29.2
+"Polk County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,4
+"Polk County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,37.3
+"Polk County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,7.4
+"Polk County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,35.5
+"Polk County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,7.1
+"Polk County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,38.5
+"Polk County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,19.4
+"Polk County, Florida",Bus or trolley bus,Estimate,34.8
+"Polk County, Florida",Bus or trolley bus,MOE,7.5
+"Polk County, Florida",Streetcar or trolley car,Estimate,21.9
+"Polk County, Florida",Streetcar or trolley car,MOE,10.8
+"Polk County, Florida",Subway or elevated,Estimate,43.7
+"Polk County, Florida",Subway or elevated,MOE,38.1
+"Polk County, Florida",Railroad,Estimate,27.4
+"Polk County, Florida",Railroad,MOE,16.8
+"Polk County, Florida",Ferryboat,Estimate,-
+"Polk County, Florida",Ferryboat,MOE,**
+"Polk County, Florida",Bicycle,Estimate,23.6
+"Polk County, Florida",Bicycle,MOE,4.7
+"Polk County, Florida",Walked,Estimate,11.9
+"Polk County, Florida",Walked,MOE,1.9
+"Polk County, Florida",Taxicab,Estimate,12.4
+"Polk County, Florida",Taxicab,MOE,4.2
+"Polk County, Florida",Motorcycle,Estimate,24.7
+"Polk County, Florida",Motorcycle,MOE,4
+"Polk County, Florida",Other method,Estimate,27.9
+"Polk County, Florida",Other method,MOE,6.2
+"Polk County, Florida",Worked at home,Estimate,0
+"Polk County, Florida",Worked at home,MOE,0
+"Putnam County, Florida","Total, means of transportation",Estimate,27.4
+"Putnam County, Florida","Total, means of transportation",MOE,1.2
+"Putnam County, Florida","Car, truck, or van -- Drove alone",Estimate,27.5
+"Putnam County, Florida","Car, truck, or van -- Drove alone",MOE,1.3
+"Putnam County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,30.7
+"Putnam County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,3.7
+"Putnam County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,32.9
+"Putnam County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,8.9
+"Putnam County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,36.9
+"Putnam County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,24.8
+"Putnam County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,16.1
+"Putnam County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,15.9
+"Putnam County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,42.1
+"Putnam County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,12.6
+"Putnam County, Florida",Bus or trolley bus,Estimate,20.6
+"Putnam County, Florida",Bus or trolley bus,MOE,11.8
+"Putnam County, Florida",Streetcar or trolley car,Estimate,-
+"Putnam County, Florida",Streetcar or trolley car,MOE,**
+"Putnam County, Florida",Subway or elevated,Estimate,-
+"Putnam County, Florida",Subway or elevated,MOE,**
+"Putnam County, Florida",Railroad,Estimate,-
+"Putnam County, Florida",Railroad,MOE,**
+"Putnam County, Florida",Ferryboat,Estimate,-
+"Putnam County, Florida",Ferryboat,MOE,**
+"Putnam County, Florida",Bicycle,Estimate,19.2
+"Putnam County, Florida",Bicycle,MOE,7.5
+"Putnam County, Florida",Walked,Estimate,8.7
+"Putnam County, Florida",Walked,MOE,2.9
+"Putnam County, Florida",Taxicab,Estimate,7.7
+"Putnam County, Florida",Taxicab,MOE,3
+"Putnam County, Florida",Motorcycle,Estimate,24.8
+"Putnam County, Florida",Motorcycle,MOE,11.4
+"Putnam County, Florida",Other method,Estimate,33.8
+"Putnam County, Florida",Other method,MOE,16
+"Putnam County, Florida",Worked at home,Estimate,0
+"Putnam County, Florida",Worked at home,MOE,0
+"St. Johns County, Florida","Total, means of transportation",Estimate,27
+"St. Johns County, Florida","Total, means of transportation",MOE,0.6
+"St. Johns County, Florida","Car, truck, or van -- Drove alone",Estimate,26.8
+"St. Johns County, Florida","Car, truck, or van -- Drove alone",MOE,0.6
+"St. Johns County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,27.9
+"St. Johns County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,3
+"St. Johns County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,25.5
+"St. Johns County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,4.2
+"St. Johns County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,37.1
+"St. Johns County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,11.7
+"St. Johns County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,31
+"St. Johns County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,27.8
+"St. Johns County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,21.2
+"St. Johns County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,16.1
+"St. Johns County, Florida",Bus or trolley bus,Estimate,27.6
+"St. Johns County, Florida",Bus or trolley bus,MOE,9
+"St. Johns County, Florida",Streetcar or trolley car,Estimate,-
+"St. Johns County, Florida",Streetcar or trolley car,MOE,**
+"St. Johns County, Florida",Subway or elevated,Estimate,71.2
+"St. Johns County, Florida",Subway or elevated,MOE,46.3
+"St. Johns County, Florida",Railroad,Estimate,48.7
+"St. Johns County, Florida",Railroad,MOE,43.7
+"St. Johns County, Florida",Ferryboat,Estimate,-
+"St. Johns County, Florida",Ferryboat,MOE,**
+"St. Johns County, Florida",Bicycle,Estimate,15.8
+"St. Johns County, Florida",Bicycle,MOE,3.1
+"St. Johns County, Florida",Walked,Estimate,9.2
+"St. Johns County, Florida",Walked,MOE,2.1
+"St. Johns County, Florida",Taxicab,Estimate,17.4
+"St. Johns County, Florida",Taxicab,MOE,6.7
+"St. Johns County, Florida",Motorcycle,Estimate,26.3
+"St. Johns County, Florida",Motorcycle,MOE,8.1
+"St. Johns County, Florida",Other method,Estimate,68.1
+"St. Johns County, Florida",Other method,MOE,19.5
+"St. Johns County, Florida",Worked at home,Estimate,0
+"St. Johns County, Florida",Worked at home,MOE,0
+"St. Lucie County, Florida","Total, means of transportation",Estimate,27.5
+"St. Lucie County, Florida","Total, means of transportation",MOE,0.8
+"St. Lucie County, Florida","Car, truck, or van -- Drove alone",Estimate,26.9
+"St. Lucie County, Florida","Car, truck, or van -- Drove alone",MOE,1
+"St. Lucie County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,31
+"St. Lucie County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,4.6
+"St. Lucie County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,27.6
+"St. Lucie County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,5.4
+"St. Lucie County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,44.5
+"St. Lucie County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,16.7
+"St. Lucie County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,46.2
+"St. Lucie County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,11.7
+"St. Lucie County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,44.5
+"St. Lucie County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,7.7
+"St. Lucie County, Florida",Bus or trolley bus,Estimate,34.1
+"St. Lucie County, Florida",Bus or trolley bus,MOE,10.3
+"St. Lucie County, Florida",Streetcar or trolley car,Estimate,-
+"St. Lucie County, Florida",Streetcar or trolley car,MOE,**
+"St. Lucie County, Florida",Subway or elevated,Estimate,20
+"St. Lucie County, Florida",Subway or elevated,MOE,9.3
+"St. Lucie County, Florida",Railroad,Estimate,113.3
+"St. Lucie County, Florida",Railroad,MOE,23
+"St. Lucie County, Florida",Ferryboat,Estimate,-
+"St. Lucie County, Florida",Ferryboat,MOE,**
+"St. Lucie County, Florida",Bicycle,Estimate,26
+"St. Lucie County, Florida",Bicycle,MOE,6.1
+"St. Lucie County, Florida",Walked,Estimate,17.9
+"St. Lucie County, Florida",Walked,MOE,7.3
+"St. Lucie County, Florida",Taxicab,Estimate,-
+"St. Lucie County, Florida",Taxicab,MOE,**
+"St. Lucie County, Florida",Motorcycle,Estimate,36.7
+"St. Lucie County, Florida",Motorcycle,MOE,11.5
+"St. Lucie County, Florida",Other method,Estimate,19.2
+"St. Lucie County, Florida",Other method,MOE,2.8
+"St. Lucie County, Florida",Worked at home,Estimate,0
+"St. Lucie County, Florida",Worked at home,MOE,0
+"Santa Rosa County, Florida","Total, means of transportation",Estimate,28.3
+"Santa Rosa County, Florida","Total, means of transportation",MOE,0.8
+"Santa Rosa County, Florida","Car, truck, or van -- Drove alone",Estimate,27.9
+"Santa Rosa County, Florida","Car, truck, or van -- Drove alone",MOE,0.7
+"Santa Rosa County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,27.7
+"Santa Rosa County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,2.4
+"Santa Rosa County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,34
+"Santa Rosa County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,6.6
+"Santa Rosa County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,29.5
+"Santa Rosa County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,12.2
+"Santa Rosa County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,34
+"Santa Rosa County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,15.4
+"Santa Rosa County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,17.3
+"Santa Rosa County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,8.9
+"Santa Rosa County, Florida",Bus or trolley bus,Estimate,63.4
+"Santa Rosa County, Florida",Bus or trolley bus,MOE,46.1
+"Santa Rosa County, Florida",Streetcar or trolley car,Estimate,-
+"Santa Rosa County, Florida",Streetcar or trolley car,MOE,**
+"Santa Rosa County, Florida",Subway or elevated,Estimate,67
+"Santa Rosa County, Florida",Subway or elevated,MOE,44.6
+"Santa Rosa County, Florida",Railroad,Estimate,-
+"Santa Rosa County, Florida",Railroad,MOE,**
+"Santa Rosa County, Florida",Ferryboat,Estimate,-
+"Santa Rosa County, Florida",Ferryboat,MOE,**
+"Santa Rosa County, Florida",Bicycle,Estimate,13.3
+"Santa Rosa County, Florida",Bicycle,MOE,6.2
+"Santa Rosa County, Florida",Walked,Estimate,6.3
+"Santa Rosa County, Florida",Walked,MOE,4.1
+"Santa Rosa County, Florida",Taxicab,Estimate,-
+"Santa Rosa County, Florida",Taxicab,MOE,**
+"Santa Rosa County, Florida",Motorcycle,Estimate,21.2
+"Santa Rosa County, Florida",Motorcycle,MOE,4.8
+"Santa Rosa County, Florida",Other method,Estimate,69.6
+"Santa Rosa County, Florida",Other method,MOE,24.2
+"Santa Rosa County, Florida",Worked at home,Estimate,0
+"Santa Rosa County, Florida",Worked at home,MOE,0
+"Sarasota County, Florida","Total, means of transportation",Estimate,23.2
+"Sarasota County, Florida","Total, means of transportation",MOE,0.5
+"Sarasota County, Florida","Car, truck, or van -- Drove alone",Estimate,22.9
+"Sarasota County, Florida","Car, truck, or van -- Drove alone",MOE,0.6
+"Sarasota County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,23.3
+"Sarasota County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,1.5
+"Sarasota County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,25.1
+"Sarasota County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,4.7
+"Sarasota County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,27.1
+"Sarasota County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,5
+"Sarasota County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,18.6
+"Sarasota County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,2.8
+"Sarasota County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,14.5
+"Sarasota County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,4.2
+"Sarasota County, Florida",Bus or trolley bus,Estimate,38.1
+"Sarasota County, Florida",Bus or trolley bus,MOE,5
+"Sarasota County, Florida",Streetcar or trolley car,Estimate,-
+"Sarasota County, Florida",Streetcar or trolley car,MOE,**
+"Sarasota County, Florida",Subway or elevated,Estimate,45.5
+"Sarasota County, Florida",Subway or elevated,MOE,34.6
+"Sarasota County, Florida",Railroad,Estimate,-
+"Sarasota County, Florida",Railroad,MOE,**
+"Sarasota County, Florida",Ferryboat,Estimate,14
+"Sarasota County, Florida",Ferryboat,MOE,9.7
+"Sarasota County, Florida",Bicycle,Estimate,18.8
+"Sarasota County, Florida",Bicycle,MOE,1.8
+"Sarasota County, Florida",Walked,Estimate,13.5
+"Sarasota County, Florida",Walked,MOE,4.3
+"Sarasota County, Florida",Taxicab,Estimate,21.4
+"Sarasota County, Florida",Taxicab,MOE,18.3
+"Sarasota County, Florida",Motorcycle,Estimate,18.3
+"Sarasota County, Florida",Motorcycle,MOE,6.1
+"Sarasota County, Florida",Other method,Estimate,49.9
+"Sarasota County, Florida",Other method,MOE,14.1
+"Sarasota County, Florida",Worked at home,Estimate,0
+"Sarasota County, Florida",Worked at home,MOE,0
+"Seminole County, Florida","Total, means of transportation",Estimate,27.3
+"Seminole County, Florida","Total, means of transportation",MOE,0.4
+"Seminole County, Florida","Car, truck, or van -- Drove alone",Estimate,26.8
+"Seminole County, Florida","Car, truck, or van -- Drove alone",MOE,0.5
+"Seminole County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,25.5
+"Seminole County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,1.4
+"Seminole County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,34.1
+"Seminole County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,10.1
+"Seminole County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,25.2
+"Seminole County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,3.5
+"Seminole County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,32.9
+"Seminole County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,8.7
+"Seminole County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,32.7
+"Seminole County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,8.5
+"Seminole County, Florida",Bus or trolley bus,Estimate,45.6
+"Seminole County, Florida",Bus or trolley bus,MOE,7.1
+"Seminole County, Florida",Streetcar or trolley car,Estimate,36.3
+"Seminole County, Florida",Streetcar or trolley car,MOE,6.9
+"Seminole County, Florida",Subway or elevated,Estimate,38
+"Seminole County, Florida",Subway or elevated,MOE,22.9
+"Seminole County, Florida",Railroad,Estimate,47.6
+"Seminole County, Florida",Railroad,MOE,7.5
+"Seminole County, Florida",Ferryboat,Estimate,41.2
+"Seminole County, Florida",Ferryboat,MOE,19.8
+"Seminole County, Florida",Bicycle,Estimate,22.5
+"Seminole County, Florida",Bicycle,MOE,3.1
+"Seminole County, Florida",Walked,Estimate,16.1
+"Seminole County, Florida",Walked,MOE,3.7
+"Seminole County, Florida",Taxicab,Estimate,11.5
+"Seminole County, Florida",Taxicab,MOE,3.1
+"Seminole County, Florida",Motorcycle,Estimate,22.1
+"Seminole County, Florida",Motorcycle,MOE,6.6
+"Seminole County, Florida",Other method,Estimate,72.8
+"Seminole County, Florida",Other method,MOE,13.4
+"Seminole County, Florida",Worked at home,Estimate,0
+"Seminole County, Florida",Worked at home,MOE,0
+"Sumter County, Florida","Total, means of transportation",Estimate,25
+"Sumter County, Florida","Total, means of transportation",MOE,1.5
+"Sumter County, Florida","Car, truck, or van -- Drove alone",Estimate,24.7
+"Sumter County, Florida","Car, truck, or van -- Drove alone",MOE,1.5
+"Sumter County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,23.5
+"Sumter County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,4
+"Sumter County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,33.8
+"Sumter County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,21.8
+"Sumter County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,72.9
+"Sumter County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,49.7
+"Sumter County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,40
+"Sumter County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,36.1
+"Sumter County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,-
+"Sumter County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,**
+"Sumter County, Florida",Bus or trolley bus,Estimate,43.6
+"Sumter County, Florida",Bus or trolley bus,MOE,6.8
+"Sumter County, Florida",Streetcar or trolley car,Estimate,-
+"Sumter County, Florida",Streetcar or trolley car,MOE,**
+"Sumter County, Florida",Subway or elevated,Estimate,-
+"Sumter County, Florida",Subway or elevated,MOE,**
+"Sumter County, Florida",Railroad,Estimate,-
+"Sumter County, Florida",Railroad,MOE,**
+"Sumter County, Florida",Ferryboat,Estimate,17.5
+"Sumter County, Florida",Ferryboat,MOE,22.6
+"Sumter County, Florida",Bicycle,Estimate,17.6
+"Sumter County, Florida",Bicycle,MOE,3.4
+"Sumter County, Florida",Walked,Estimate,9.6
+"Sumter County, Florida",Walked,MOE,3.2
+"Sumter County, Florida",Taxicab,Estimate,-
+"Sumter County, Florida",Taxicab,MOE,**
+"Sumter County, Florida",Motorcycle,Estimate,36.5
+"Sumter County, Florida",Motorcycle,MOE,22.8
+"Sumter County, Florida",Other method,Estimate,25.6
+"Sumter County, Florida",Other method,MOE,9
+"Sumter County, Florida",Worked at home,Estimate,0
+"Sumter County, Florida",Worked at home,MOE,0
+"Suwannee County, Florida","Total, means of transportation",Estimate,26
+"Suwannee County, Florida","Total, means of transportation",MOE,1.5
+"Suwannee County, Florida","Car, truck, or van -- Drove alone",Estimate,25.5
+"Suwannee County, Florida","Car, truck, or van -- Drove alone",MOE,1.5
+"Suwannee County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,33.4
+"Suwannee County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,4.6
+"Suwannee County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,19.3
+"Suwannee County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,6.1
+"Suwannee County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,60.5
+"Suwannee County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,52.8
+"Suwannee County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,21.5
+"Suwannee County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,30
+"Suwannee County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,39
+"Suwannee County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,18.7
+"Suwannee County, Florida",Bus or trolley bus,Estimate,14.7
+"Suwannee County, Florida",Bus or trolley bus,MOE,14.6
+"Suwannee County, Florida",Streetcar or trolley car,Estimate,-
+"Suwannee County, Florida",Streetcar or trolley car,MOE,**
+"Suwannee County, Florida",Subway or elevated,Estimate,-
+"Suwannee County, Florida",Subway or elevated,MOE,**
+"Suwannee County, Florida",Railroad,Estimate,-
+"Suwannee County, Florida",Railroad,MOE,**
+"Suwannee County, Florida",Ferryboat,Estimate,-
+"Suwannee County, Florida",Ferryboat,MOE,**
+"Suwannee County, Florida",Bicycle,Estimate,15.2
+"Suwannee County, Florida",Bicycle,MOE,6
+"Suwannee County, Florida",Walked,Estimate,4.6
+"Suwannee County, Florida",Walked,MOE,0.8
+"Suwannee County, Florida",Taxicab,Estimate,-
+"Suwannee County, Florida",Taxicab,MOE,**
+"Suwannee County, Florida",Motorcycle,Estimate,-
+"Suwannee County, Florida",Motorcycle,MOE,**
+"Suwannee County, Florida",Other method,Estimate,22.5
+"Suwannee County, Florida",Other method,MOE,11
+"Suwannee County, Florida",Worked at home,Estimate,0
+"Suwannee County, Florida",Worked at home,MOE,0
+"Taylor County, Florida","Total, means of transportation",Estimate,21.9
+"Taylor County, Florida","Total, means of transportation",MOE,3.1
+"Taylor County, Florida","Car, truck, or van -- Drove alone",Estimate,20.2
+"Taylor County, Florida","Car, truck, or van -- Drove alone",MOE,3.1
+"Taylor County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,29.3
+"Taylor County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,12.1
+"Taylor County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,39.7
+"Taylor County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,33.3
+"Taylor County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,2
+"Taylor County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,0.4
+"Taylor County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,40.7
+"Taylor County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,22.6
+"Taylor County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,-
+"Taylor County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,**
+"Taylor County, Florida",Bus or trolley bus,Estimate,57
+"Taylor County, Florida",Bus or trolley bus,MOE,75.7
+"Taylor County, Florida",Streetcar or trolley car,Estimate,-
+"Taylor County, Florida",Streetcar or trolley car,MOE,**
+"Taylor County, Florida",Subway or elevated,Estimate,-
+"Taylor County, Florida",Subway or elevated,MOE,**
+"Taylor County, Florida",Railroad,Estimate,-
+"Taylor County, Florida",Railroad,MOE,**
+"Taylor County, Florida",Ferryboat,Estimate,-
+"Taylor County, Florida",Ferryboat,MOE,**
+"Taylor County, Florida",Bicycle,Estimate,44
+"Taylor County, Florida",Bicycle,MOE,32.5
+"Taylor County, Florida",Walked,Estimate,12.7
+"Taylor County, Florida",Walked,MOE,7.2
+"Taylor County, Florida",Taxicab,Estimate,-
+"Taylor County, Florida",Taxicab,MOE,**
+"Taylor County, Florida",Motorcycle,Estimate,-
+"Taylor County, Florida",Motorcycle,MOE,**
+"Taylor County, Florida",Other method,Estimate,7.5
+"Taylor County, Florida",Other method,MOE,7.4
+"Taylor County, Florida",Worked at home,Estimate,0
+"Taylor County, Florida",Worked at home,MOE,0
+"Union County, Florida","Total, means of transportation",Estimate,22.8
+"Union County, Florida","Total, means of transportation",MOE,1.5
+"Union County, Florida","Car, truck, or van -- Drove alone",Estimate,22.6
+"Union County, Florida","Car, truck, or van -- Drove alone",MOE,1.6
+"Union County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,28.6
+"Union County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,4.7
+"Union County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,11.3
+"Union County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,4
+"Union County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,71.5
+"Union County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,65.5
+"Union County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,15.3
+"Union County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,17.7
+"Union County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,-
+"Union County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,**
+"Union County, Florida",Bus or trolley bus,Estimate,24.1
+"Union County, Florida",Bus or trolley bus,MOE,10.6
+"Union County, Florida",Streetcar or trolley car,Estimate,-
+"Union County, Florida",Streetcar or trolley car,MOE,**
+"Union County, Florida",Subway or elevated,Estimate,-
+"Union County, Florida",Subway or elevated,MOE,**
+"Union County, Florida",Railroad,Estimate,-
+"Union County, Florida",Railroad,MOE,**
+"Union County, Florida",Ferryboat,Estimate,-
+"Union County, Florida",Ferryboat,MOE,**
+"Union County, Florida",Bicycle,Estimate,16.3
+"Union County, Florida",Bicycle,MOE,16.6
+"Union County, Florida",Walked,Estimate,5.3
+"Union County, Florida",Walked,MOE,3.3
+"Union County, Florida",Taxicab,Estimate,-
+"Union County, Florida",Taxicab,MOE,**
+"Union County, Florida",Motorcycle,Estimate,-
+"Union County, Florida",Motorcycle,MOE,**
+"Union County, Florida",Other method,Estimate,10.3
+"Union County, Florida",Other method,MOE,3.5
+"Union County, Florida",Worked at home,Estimate,0
+"Union County, Florida",Worked at home,MOE,0
+"Volusia County, Florida","Total, means of transportation",Estimate,25.3
+"Volusia County, Florida","Total, means of transportation",MOE,0.4
+"Volusia County, Florida","Car, truck, or van -- Drove alone",Estimate,24.9
+"Volusia County, Florida","Car, truck, or van -- Drove alone",MOE,0.4
+"Volusia County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,25.6
+"Volusia County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,1.4
+"Volusia County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,28.5
+"Volusia County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,3.5
+"Volusia County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,30.2
+"Volusia County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,8.4
+"Volusia County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,40.7
+"Volusia County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,10.4
+"Volusia County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,26.1
+"Volusia County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,5
+"Volusia County, Florida",Bus or trolley bus,Estimate,42.8
+"Volusia County, Florida",Bus or trolley bus,MOE,4
+"Volusia County, Florida",Streetcar or trolley car,Estimate,4.5
+"Volusia County, Florida",Streetcar or trolley car,MOE,2.8
+"Volusia County, Florida",Subway or elevated,Estimate,15.5
+"Volusia County, Florida",Subway or elevated,MOE,31.5
+"Volusia County, Florida",Railroad,Estimate,54.4
+"Volusia County, Florida",Railroad,MOE,6.8
+"Volusia County, Florida",Ferryboat,Estimate,8
+"Volusia County, Florida",Ferryboat,MOE,9.2
+"Volusia County, Florida",Bicycle,Estimate,27.4
+"Volusia County, Florida",Bicycle,MOE,3.9
+"Volusia County, Florida",Walked,Estimate,15.3
+"Volusia County, Florida",Walked,MOE,3.8
+"Volusia County, Florida",Taxicab,Estimate,18.9
+"Volusia County, Florida",Taxicab,MOE,6.3
+"Volusia County, Florida",Motorcycle,Estimate,17.8
+"Volusia County, Florida",Motorcycle,MOE,2.4
+"Volusia County, Florida",Other method,Estimate,42.4
+"Volusia County, Florida",Other method,MOE,9
+"Volusia County, Florida",Worked at home,Estimate,0
+"Volusia County, Florida",Worked at home,MOE,0
+"Wakulla County, Florida","Total, means of transportation",Estimate,33.7
+"Wakulla County, Florida","Total, means of transportation",MOE,1.9
+"Wakulla County, Florida","Car, truck, or van -- Drove alone",Estimate,32.7
+"Wakulla County, Florida","Car, truck, or van -- Drove alone",MOE,1.9
+"Wakulla County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,41.8
+"Wakulla County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,4.9
+"Wakulla County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,63.9
+"Wakulla County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,17.9
+"Wakulla County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,14.7
+"Wakulla County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,6.9
+"Wakulla County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,2.7
+"Wakulla County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,2.3
+"Wakulla County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,-
+"Wakulla County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,**
+"Wakulla County, Florida",Bus or trolley bus,Estimate,91.3
+"Wakulla County, Florida",Bus or trolley bus,MOE,87
+"Wakulla County, Florida",Streetcar or trolley car,Estimate,-
+"Wakulla County, Florida",Streetcar or trolley car,MOE,**
+"Wakulla County, Florida",Subway or elevated,Estimate,-
+"Wakulla County, Florida",Subway or elevated,MOE,**
+"Wakulla County, Florida",Railroad,Estimate,-
+"Wakulla County, Florida",Railroad,MOE,**
+"Wakulla County, Florida",Ferryboat,Estimate,-
+"Wakulla County, Florida",Ferryboat,MOE,**
+"Wakulla County, Florida",Bicycle,Estimate,4.6
+"Wakulla County, Florida",Bicycle,MOE,3.9
+"Wakulla County, Florida",Walked,Estimate,7.8
+"Wakulla County, Florida",Walked,MOE,4.6
+"Wakulla County, Florida",Taxicab,Estimate,-
+"Wakulla County, Florida",Taxicab,MOE,**
+"Wakulla County, Florida",Motorcycle,Estimate,11.6
+"Wakulla County, Florida",Motorcycle,MOE,4.1
+"Wakulla County, Florida",Other method,Estimate,65.3
+"Wakulla County, Florida",Other method,MOE,57.2
+"Wakulla County, Florida",Worked at home,Estimate,0
+"Wakulla County, Florida",Worked at home,MOE,0
+"Walton County, Florida","Total, means of transportation",Estimate,28
+"Walton County, Florida","Total, means of transportation",MOE,1.5
+"Walton County, Florida","Car, truck, or van -- Drove alone",Estimate,26.9
+"Walton County, Florida","Car, truck, or van -- Drove alone",MOE,1.5
+"Walton County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,30.8
+"Walton County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,4.1
+"Walton County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,48.6
+"Walton County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,9.4
+"Walton County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,21.8
+"Walton County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,4.7
+"Walton County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,-
+"Walton County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,**
+"Walton County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,35
+"Walton County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,44.4
+"Walton County, Florida",Bus or trolley bus,Estimate,10.3
+"Walton County, Florida",Bus or trolley bus,MOE,2
+"Walton County, Florida",Streetcar or trolley car,Estimate,-
+"Walton County, Florida",Streetcar or trolley car,MOE,**
+"Walton County, Florida",Subway or elevated,Estimate,-
+"Walton County, Florida",Subway or elevated,MOE,**
+"Walton County, Florida",Railroad,Estimate,-
+"Walton County, Florida",Railroad,MOE,**
+"Walton County, Florida",Ferryboat,Estimate,-
+"Walton County, Florida",Ferryboat,MOE,**
+"Walton County, Florida",Bicycle,Estimate,51
+"Walton County, Florida",Bicycle,MOE,27.8
+"Walton County, Florida",Walked,Estimate,9.1
+"Walton County, Florida",Walked,MOE,5.4
+"Walton County, Florida",Taxicab,Estimate,16
+"Walton County, Florida",Taxicab,MOE,9.2
+"Walton County, Florida",Motorcycle,Estimate,41.3
+"Walton County, Florida",Motorcycle,MOE,60.5
+"Walton County, Florida",Other method,Estimate,58.6
+"Walton County, Florida",Other method,MOE,24.8
+"Walton County, Florida",Worked at home,Estimate,0
+"Walton County, Florida",Worked at home,MOE,0
+"Washington County, Florida","Total, means of transportation",Estimate,30.5
+"Washington County, Florida","Total, means of transportation",MOE,1.8
+"Washington County, Florida","Car, truck, or van -- Drove alone",Estimate,30.4
+"Washington County, Florida","Car, truck, or van -- Drove alone",MOE,1.9
+"Washington County, Florida","Car, truck, or van -- In a 2-person carpool",Estimate,38.9
+"Washington County, Florida","Car, truck, or van -- In a 2-person carpool",MOE,11.8
+"Washington County, Florida","Car, truck, or van -- In a 3-person carpool",Estimate,25
+"Washington County, Florida","Car, truck, or van -- In a 3-person carpool",MOE,10.9
+"Washington County, Florida","Car, truck, or van -- In a 4-person carpool",Estimate,22.5
+"Washington County, Florida","Car, truck, or van -- In a 4-person carpool",MOE,41
+"Washington County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",Estimate,8.8
+"Washington County, Florida","Car, truck, or van -- In a 5-or-6-person carpool",MOE,13.7
+"Washington County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",Estimate,-
+"Washington County, Florida","Car, truck, or van -- In a 7-or-more-person carpool",MOE,**
+"Washington County, Florida",Bus or trolley bus,Estimate,13.8
+"Washington County, Florida",Bus or trolley bus,MOE,9.7
+"Washington County, Florida",Streetcar or trolley car,Estimate,-
+"Washington County, Florida",Streetcar or trolley car,MOE,**
+"Washington County, Florida",Subway or elevated,Estimate,-
+"Washington County, Florida",Subway or elevated,MOE,**
+"Washington County, Florida",Railroad,Estimate,-
+"Washington County, Florida",Railroad,MOE,**
+"Washington County, Florida",Ferryboat,Estimate,-
+"Washington County, Florida",Ferryboat,MOE,**
+"Washington County, Florida",Bicycle,Estimate,-
+"Washington County, Florida",Bicycle,MOE,**
+"Washington County, Florida",Walked,Estimate,6.1
+"Washington County, Florida",Walked,MOE,3.3
+"Washington County, Florida",Taxicab,Estimate,-
+"Washington County, Florida",Taxicab,MOE,**
+"Washington County, Florida",Motorcycle,Estimate,36.5
+"Washington County, Florida",Motorcycle,MOE,71.4
+"Washington County, Florida",Other method,Estimate,24.9
+"Washington County, Florida",Other method,MOE,14.2
+"Washington County, Florida",Worked at home,Estimate,0
+"Washington County, Florida",Worked at home,MOE,0

@@ -1,0 +1,135 @@
+library(tidycensus)
+library(tidyverse)
+
+fruit <- c("apple", "banana", "pear", "pinapple")
+str_detect(fruit, "a")
+str_detect(fruit, "^a")
+
+us_pyramid_data <- get_estimates(
+  geography = "state",
+  product = "characteristics",
+  breakdown = c("SEX", "AGEGROUP"),
+  breakdown_labels = TRUE,
+  year = 2016
+)
+
+us_pyramid_data1 <- us_pyramid_data %>% filter(str_detect(AGEGROUP, "^Age"),
+       SEX != "Both sexes") %>%
+  group_by(NAME) %>%
+  mutate(prop = value / sum(value, na.rm = TRUE)) 
+
+us_pyramid_data1a <- us_pyramid_data1 %>%
+  ungroup() %>%
+  mutate(prop = ifelse(SEX == "Male", -prop, prop))
+
+t1 <- subset(us_pyramid_data,select=c(1,2))
+t1 <- unique(t1)
+
+saveRDS(t1,"data/state_geoids.RDS")
+
+A101201 <- fread("data/A101201.csv",header=TRUE,sep=",")
+
+## Next read in the state file and set it as a data.table object (setDT command)
+
+stategeo <- setDT(readRDS("data/state_geoids.RDS")) 
+
+## Merge the two files
+
+# Sort by NAME
+setkey(A101201,NAME)
+setkey(stategeo,NAME)
+
+# Now merge the files
+A101201A <- stategeo[A101201]
+
+library(geofacet)
+
+
+library(geofacet)
+
+
+A101201B <- A101201A %>% filter(str_detect(Age, "^Age"), Output != "Margin of Error", Minority !="Total persons") 
+
+A101201B <- A101201B %>%
+  group_by(NAME) %>%
+  mutate(prop = Population / sum(Population, na.rm = TRUE)) %>%
+  ungroup() %>%
+  mutate(prop = ifelse(Minority == "White alone, not Hispanic/Latino", -prop, prop))
+
+ggplot(A101201B, aes(x = prop, y = Age, fill = Minority)) + 
+  geom_col(width = 1) + 
+  theme_minimal() + 
+  scale_fill_manual(values = c("darkred", "navy")) + 
+  facet_geo(~NAME, grid = "us_state_with_DC_PR_grid2",
+            label = "code") + 
+  theme(axis.text = element_blank(),
+        strip.text.x = element_text(size = 8)) + 
+  labs(x = "", 
+       y = "", 
+       title = "Population structure by age and sex", 
+       fill = "", 
+       caption = "Data source: US Census Bureau population estimates & tidycensus R package")
+
+
+library(tidycensus)
+library(ggiraph)
+library(tidyverse)
+library(patchwork)
+
+fl_income <- get_acs(
+  geography = "county",
+  variables = "B19013_001",
+  state = "FL",
+  year = 2019,
+  geometry = TRUE
+) 
+
+fl <- subset(fl_income,select=c(1,2,6))
+
+saveRDS(fl,"data/FL_geos.RDS")
+
+mot <- read_csv("data/B106202.csv")
+
+mottal <- mot %>% filter(MOT=='Total, means of transportation')
+
+mottal$mtt <- as.numeric(as.character(mottal$MeanTT))
+mottal <- subset(mottal,select=-c(4))
+
+mottal <- subset(mottal,select=-c(MeanTT))
+
+mottal_l <- spread(mottal,Output,mtt)
+
+motfl <- merge(fl,mottal_l)
+
+motfl <- motfl %>% mutate(NAME = str_remove(NAME, " County, Florida"))
+
+fl_map <- ggplot(motfl, aes(fill = Estimate)) + 
+  geom_sf_interactive(aes(data_id = GEOID)) + 
+  scale_fill_distiller(palette = "Blues",
+                       direction = 1, 
+                       guide = "none") + 
+  theme_void()
+
+fl_plot <- ggplot(motfl, aes(x = Estimate, y = reorder(NAME, Estimate), 
+                                 fill = Estimate)) +
+  geom_errorbarh(aes(xmin = Estimate - MOE, xmax = Estimate + MOE)) +
+  geom_point_interactive(color = "black", size = 4, shape = 21,
+                         aes(data_id = GEOID)) +
+  scale_fill_distiller(palette = "Blues", direction = 1) + 
+  scale_x_continuous() + 
+  labs(title = "Mean Travel Time by county in Florida",
+       subtitle = "2012-2016 CTPP",
+       y = "",
+       x = "CTPP estimate (bars represent margin of error)",
+       fill = "Mean Travel Time Estimate") + 
+  theme_minimal(base_size = 18)
+
+girafe(ggobj = fl_map + fl_plot, width_svg = 30, height_svg = 15) %>%
+  girafe_options(opts_hover(css = "fill:green;"))
+
+workers <- read_csv("data/A302100.csv") %>% filter(Output != "Margin of Error") 
+workers <- subset(workers, select=-c(Output))
+
+workers_wide <- spread(workers,WORKPLACE,Workers)
+
+workers_wide[is.na(workers_wide)] <- 0

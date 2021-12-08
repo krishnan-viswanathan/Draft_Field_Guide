@@ -1,0 +1,9 @@
+h1:url-your-book-url-like-httpsbookdown.orgyihuibookdown url: your book url like https://bookdown.org/yihui/bookdown
+h1:cover-image-path-to-the-social-sharing-image-like-imagescover.jpg cover-image: path to the social sharing image like images/cover.jpg
+h1:introduction Introduction
+h2:history-of-the-census History of the Census
+fig:timeline Census Timeline since 1790
+h2:history-of-transportation-in-the-census History of Transportation in the Census
+fig:c60 1960 Census Transportation Questions
+fig:c80 1980 Census Transportation Questions
+

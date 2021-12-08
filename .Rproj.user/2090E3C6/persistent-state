@@ -1,0 +1,8 @@
+build-last-errors="[]"
+build-last-errors-base-dir=""
+build-last-outputs="[{\"type\":0,\"output\":\"==> rmarkdown::render_site(output_format = 'bookdown::bs4_book', encoding = 'UTF-8')\\n\\n\"},{\"type\":2,\"output\":\"Error: Must install the following packages to use bs4_book():\\r\\n* bslib\\r\\nExecution halted\\r\\n\"},{\"type\":2,\"output\":\"Error in Rscript_render(f, render_args, render_meta, add1, add2) : \\r\\n  Failed to compile index.Rmd\\r\\nCalls: <Anonymous> ... render_book -> render_new_session -> Rscript_render\\r\\nExecution halted\\r\\n\"},{\"type\":2,\"output\":\"\\nExited with status 1.\\n\\n\"}]"
+compile_pdf_state="{\"tab_visible\":false,\"running\":false,\"target_file\":\"\",\"output\":\"\",\"errors\":[]}"
+files.monitored-path=""
+find-in-files-state="{\"handle\":\"\",\"input\":\"\",\"path\":\"\",\"regex\":false,\"ignoreCase\":false,\"results\":{\"file\":[],\"line\":[],\"lineValue\":[],\"matchOn\":[],\"matchOff\":[],\"replaceMatchOn\":[],\"replaceMatchOff\":[]},\"running\":false,\"replace\":false,\"preview\":false,\"gitFlag\":false,\"replacePattern\":\"\"}"
+imageDirtyState="0"
+saveActionState="0"
